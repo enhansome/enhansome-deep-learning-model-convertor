@@ -1,0 +1,465 @@
+{
+  "items": [
+    {
+      "description": "General framework for converting between all kinds of neural networks\nONNX is an effort to unify converters for neural networks in order to bring some sanity to the NN world. Released by Facebook and Microsoft. More info here.",
+      "items": [],
+      "title": "Open Neural Network Exchange"
+    },
+    {
+      "description": "MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between CaffeEmit, CNTK, CoreML, Keras, MXNet, ONNX, PyTorch and TensorFlow.",
+      "items": [],
+      "title": "MMdnn"
+    },
+    {
+      "description": "Convert to MXNet model.",
+      "items": [],
+      "title": "MXNet convertor"
+    },
+    {
+      "description": "This is a tool to convert the deep-residual-networks from caffe model to mxnet model. The weights are directly copied from caffe network blobs.",
+      "items": [],
+      "title": "nicklhy/ResNet_caffe2mxnet"
+    },
+    {
+      "description": "Convert to Caffe model.",
+      "items": [],
+      "title": "Caffe convertor"
+    },
+    {
+      "description": "It is a converter between Keras and Caffe in both ways. It works using only the Keras model to generate both the caffemodel and prototxt files, but it is also possible to pass it the prototxt file with the description of the model if you have it.",
+      "items": [],
+      "title": "keras-caffe-converter"
+    },
+    {
+      "description": "Support 1.9.0 or higher Pytorch",
+      "items": [],
+      "title": "brocolli"
+    },
+    {
+      "description": "Convert PyTorch model to Caffemodel.",
+      "items": [],
+      "title": "pytorch2caffe"
+    },
+    {
+      "description": "Convert MXNet model to Caffe model.",
+      "items": [],
+      "title": "cypw/MXNet2Caffe"
+    },
+    {
+      "description": "Convert MXNet model to Caffe model.",
+      "items": [],
+      "title": "wranglerwong/Mxnet2Caffe: Convert MXNet model to Caffe model"
+    },
+    {
+      "description": "Convert torch model to/from caffe model easily.",
+      "items": [],
+      "title": "kuangliu/mocha"
+    },
+    {
+      "description": "This tool tested with Caffe 1.0, Keras 2.1.2 and TensorFlow 1.4.0\nWorking conversion examples:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Inception V4 (https://github.com/kentsommer/keras-inceptionV4",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-09-10T05:47:38Z",
+            "owner": "kentsommer",
+            "repo": "keras-inceptionV4",
+            "stars": 468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SqueezeNet (https://github.com/rcmalli/keras-squeezenet",
+          "description": ")",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-24T15:38:04Z",
+            "owner": "rcmalli",
+            "repo": "keras-squeezenet",
+            "stars": 405
+          }
+        }
+      ],
+      "title": "uhfband/keras2caffe: Keras to Caffe model converter tool"
+    },
+    {
+      "description": "Some handy utility libraries and tools for the Caffe deep learning framework, which has ** A library for converting pre-trained Torch models to the equivalent Caffe models.**",
+      "items": [],
+      "title": "facebook/fb-caffe-exts/torch2caffe"
+    },
+    {
+      "description": "Convert between pytorch, caffe and darknet models. Caffe darknet models can be load directly by pytorch.",
+      "items": [],
+      "title": "pytorch-caffe-darknet-convert"
+    },
+    {
+      "description": "Translating Torch model to other framework such as Caffe, MxNet ...",
+      "items": [],
+      "title": "Teaonly/trans-torch"
+    },
+    {
+      "description": "A torch-nn to caffe converter for specific layers.",
+      "items": [],
+      "title": "e-lab/th2caffe"
+    },
+    {
+      "description": "a neural network convertor for models among caffe tensorflow keras",
+      "items": [],
+      "title": "hahnyuan/nn_tools"
+    },
+    {
+      "description": "Convert to Caffe2 model.",
+      "items": [],
+      "title": "Caffe2 convertor"
+    },
+    {
+      "description": "This is an official convertor, which not only provoide a script also an ipython notebook as below:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "caffe2/Getting_Caffe1_Models_for_Translation.ipynb at master · caffe2/caffe2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2023-02-07T16:51:06Z",
+            "owner": "facebookarchive",
+            "repo": "caffe2",
+            "stars": 8373
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caffe2/caffe_translator.py at master · caffe2/caffe2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2023-02-07T16:51:06Z",
+            "owner": "facebookarchive",
+            "repo": "caffe2",
+            "stars": 8373
+          }
+        }
+      ],
+      "title": "CaffeToCaffe2"
+    },
+    {
+      "description": "Convert PyTorch to Caffe2 (making it especially easy to deploy on mobile devices)",
+      "items": [],
+      "title": "onnx-caffe2"
+    },
+    {
+      "description": "Convert to CNTK model.",
+      "items": [],
+      "title": "CNTK convertor"
+    },
+    {
+      "description": "The tool will help you convert trained models from Caffe to CNTK.\nConvert trained models: giving a model script and its weights file, export to CNTK model.",
+      "items": [],
+      "title": "crosstalkcaffe/CaffeConverter"
+    },
+    {
+      "description": "crosstalk is from CNTK contrib.",
+      "items": [],
+      "title": "crosstalk"
+    },
+    {
+      "description": "Convert to Theano/Lasagne model.",
+      "items": [],
+      "title": "Theano/Lasagne convertor"
+    },
+    {
+      "description": "This is part of a project for CS231N at Stanford University, written by Ankit Kumar, Mathematics major, Class of 2015\nThis is a repository that allows you to convert pretrained caffe models into models in Lasagne, a thin wrapper around Theano. You can also convert a caffe model's architecture to an equivalent one in Lasagne. You do not need caffe installed to use this module.\nCurrently, the following caffe layers are supported:",
+      "items": [],
+      "title": "an-kumar/caffe-theano-conversion"
+    },
+    {
+      "description": "Convert models from Caffe to Theano format.",
+      "items": [],
+      "title": "kencoken/caffe-model-convert"
+    },
+    {
+      "description": "Convert a Caffe Model to a Theano Model. This currently works on AlexNet, but should work for any Caffe model that only includes layers that have been impemented.",
+      "items": [],
+      "title": "piergiaj/caffe-to-theano"
+    },
+    {
+      "description": "Convert to Neon model.",
+      "items": [],
+      "title": "Neon convertor"
+    },
+    {
+      "description": "Tools to convert Caffe models to neon's serialization format.\nThis repo contains tools to convert Caffe models into a format compatible with the neon deep learning library. The main script, \"decaffeinate.py\", takes as input a caffe model definition file and the corresponding model weights file and returns a neon serialized model file. This output file can be used to instantiate the neon Model object, which will generate a model in neon that should replicate the behavior of the Caffe model.",
+      "items": [],
+      "title": "NervanaSystems/caffe2neon"
+    },
+    {
+      "description": "Convert to PyTorch model.",
+      "items": [],
+      "title": "PyTorch convertor"
+    },
+    {
+      "description": "Convert mxnet / gluon graph to PyTorch source + weights.",
+      "items": [],
+      "title": "nerox8664/gluon2pytorch"
+    },
+    {
+      "description": "Convert resnet trained in caffe to pytorch model.",
+      "items": [],
+      "title": "ruotianluo/pytorch-resnet"
+    },
+    {
+      "description": "Convert torch t7 model to pytorch model and source.",
+      "items": [],
+      "title": "clcarwin/convert_torch_to_pytorch"
+    },
+    {
+      "description": "implements conversions from Chainer modules to PyTorch modules, setting parameters of each modules such that one can port over models on a module basis.",
+      "items": [],
+      "title": "vzhong/chainer2pytorch"
+    },
+    {
+      "description": "Load caffe prototxt and weights directly in pytorch without explicitly converting model from caffe to pytorch.",
+      "items": [],
+      "title": "pytorch-caffe"
+    },
+    {
+      "description": "Convert between Keras and PyTorch models.",
+      "items": [],
+      "title": "nn-transfer"
+    },
+    {
+      "description": "Convert to Torch model.",
+      "items": [],
+      "title": "Torch convertor"
+    },
+    {
+      "description": "Converts bvlc_googlenet.caffemodel to a Torch nn model.\nWant to use the pre-trained GoogLeNet from the BVLC Model Zoo in Torch? Do you not want to use Caffe as an additional dependency inside Torch? Use these two scripts to build the network definition in Torch and copy the learned weights from the Caffe model.",
+      "items": [],
+      "title": "kmatzen/googlenet-caffe2torch"
+    },
+    {
+      "description": "Convert torch model to/from caffe model easily.",
+      "items": [],
+      "title": "kuangliu/mocha"
+    },
+    {
+      "description": "Convert caffe model to a Torch nn.Sequential model.",
+      "items": [],
+      "title": "szagoruyko/loadcaffe"
+    },
+    {
+      "description": "Convert to Keras model.",
+      "items": [],
+      "title": "Keras convertor"
+    },
+    {
+      "description": "It is a both-ways converter between Keras and Caffe. It takes the weights from the using caffe_weight_converter and generates an equivalent Keras model. It also outputs the Python source code used to generate that Keras model.",
+      "items": [],
+      "title": "AlexPasqua/keras-caffe-converter"
+    },
+    {
+      "description": "This project is used as a part of the previous one on this list: AlexPasqua/keras-caffe-converter, which is more complete, documented and easy to use. I'd recommend using that one instead. This is a Caffe-to-Keras weight converter, i.e. it converts weight files to Keras-2-compatible HDF5 weight files. It can also export weights as Numpy arrays for further processing.\nThis converter converts the weights of a model only (not the model definition), which has the great advantage that it doesn't break every time it encounters an unknown layer type like other converters to that try to translate the model definition as well. The downside, of course, is that you'll have to write the model definition yourself.\nThe repository also provides converted weights for some popular models.",
+      "items": [],
+      "title": "AlexPasqua/caffe_weight_converter"
+    },
+    {
+      "description": "Note: This converter has been adapted from code in Marc Bolaños fork of Caffe. See acks for code provenance.\nThis is intended to serve as a conversion module for Caffe models to Keras models.\nPlease, be aware that this module is not regularly maintained. Thus, some layers or parameter definitions introduced in newer versions of either Keras or Caffe might not be compatible with the converter. Pull requests welcome!",
+      "items": [],
+      "title": "qxcv/caffe2keras"
+    },
+    {
+      "description": "a neural network convertor for models among caffe tensorflow keras",
+      "items": [],
+      "title": "hahnyuan/nn_tools"
+    },
+    {
+      "description": "Keras' fork with several new functionalities. Caffe2Keras converter, multimodal layers, etc. https://github.com/MarcBS/keras\nThis fork of Keras offers the following contributions:\nCaffe to Keras conversion module Layer-specific learning rates New layers for multimodal data Contact email: marc.bolanos@ub.edu\nGitHub page: https://github.com/MarcBS\nMarcBS/keras is compatible with: Python 2.7 and Theano only.",
+      "items": [],
+      "title": "MarcBS/keras"
+    },
+    {
+      "description": "a simple tool to translate caffe model to keras model.",
+      "items": [],
+      "title": "OdinLin/caffe2keras"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "jamescfli/Deep_Learning_Model_Converter"
+    },
+    {
+      "description": "Convert between Keras and PyTorch models.",
+      "items": [],
+      "title": "nn-transfer"
+    },
+    {
+      "description": "Convert pytorch models to Keras.",
+      "items": [],
+      "title": "pytorch2keras"
+    },
+    {
+      "description": "Convert to Darknet model.",
+      "items": [],
+      "title": "Darknet convertor"
+    },
+    {
+      "description": "Convert between pytorch, caffe and darknet models. Caffe darknet models can be load directly by pytorch.",
+      "items": [],
+      "title": "pytorch-caffe-darknet-convert"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ""
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": ""
+    },
+    {
+      "description": "Convert to TensorFlow model.",
+      "items": [],
+      "title": "TensorFlow convertor"
+    },
+    {
+      "description": "crosstalk is from CNTK.",
+      "items": [],
+      "title": "crosstalk"
+    },
+    {
+      "description": "Tools for converting Keras models for use with other ML frameworks (coreML, TensorFlow).",
+      "items": [],
+      "title": "triagemd/model-converters: Tools for converting Keras models for use with other ML frameworks"
+    },
+    {
+      "description": "a neural network convertor for models among caffe tensorflow keras",
+      "items": [],
+      "title": "hahnyuan/nn_tools"
+    },
+    {
+      "description": "Convert Caffe models to TensorFlow.",
+      "items": [],
+      "title": "ethereon/caffe-tensorflow: Caffe models in TensorFlow"
+    },
+    {
+      "description": "Converts a variety of trained models to a frozen tensorflow protocol buffer file for use with the c++ tensorflow api. C++ code is included for using the frozen models.",
+      "items": [],
+      "title": "goranrauker/convert-to-tensorflow"
+    },
+    {
+      "description": "Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices.",
+      "items": [],
+      "title": "thtrieu/darkflow"
+    },
+    {
+      "description": "Tensorflow code to to retrain yolo on a new dataset using weights from darknet\nThis repository contains experiments of transfer learning using YOLO on a new synthetical LEGO data set ROUGH AND UNDOCUMENTED!",
+      "items": [],
+      "title": "dEcmir/lego_yolo"
+    },
+    {
+      "description": "Convert keras models to tensorflow frozen graph for use on cell phones, etc.",
+      "items": [],
+      "title": "alanswx/keras_to_tensorflow"
+    },
+    {
+      "description": "General code to convert a trained keras model into an inference tensorflow model.",
+      "items": [],
+      "title": "amir-abdi/keras_to_tensorflow"
+    },
+    {
+      "description": "Converting a pretrained pytorch model to tensorflow",
+      "items": [],
+      "title": "leonidk/pytorch-tf"
+    },
+    {
+      "description": "Convert pytorch models to Tensorflow (via Keras)",
+      "items": [],
+      "title": "pytorch2keras"
+    },
+    {
+      "description": "This is a simple convector which converts Darknet weights file (.weights) to Tensorflow weights file (.ckpt).",
+      "items": [],
+      "title": "jinyu121/DW2TF: Darknet Weights to TensorFlow"
+    },
+    {
+      "description": "No readme.",
+      "items": [],
+      "title": "leonidk/pytorch-tf"
+    },
+    {
+      "description": "Convert to Chainer model.",
+      "items": [],
+      "title": "Chainer convertor"
+    },
+    {
+      "description": "Convert to coreML model.",
+      "items": [],
+      "title": "coreML convertor"
+    },
+    {
+      "description": "Convert trained models created with third-party machine learning tools to the Core ML model format.\nIf your model is created and trained using a supported third-party machine learning tool, you can use Core ML Tools to convert it to the Core ML model format. Table 1 lists the supported models and third-party tools.",
+      "items": [],
+      "title": "Apple: Converting Trained Models to Core ML"
+    },
+    {
+      "description": "Convert MXNet models into Apple CoreML format. This tool helps convert MXNet models into Apple CoreML format which can then be run on Apple devices.",
+      "items": [],
+      "title": "mxnet/tools/mxnet-to-coreml"
+    },
+    {
+      "description": "This tool helps convert Torch7 models into Apple CoreML format which can then be run on Apple devices.",
+      "items": [],
+      "title": "prisma-ai/torch2coreml: Torch7 -> CoreML"
+    },
+    {
+      "description": "Torch7 Library - Convert NN Models To iOS Format.\nSmall lib to serialise Torch7 Networks for iOS. Supported Layers include Fully Connected, Pooling and Convolution Layers at present. The library stores the weights & biases (if any) for each layer necesarry for inference on iOS devices.",
+      "items": [],
+      "title": "woffle/torch2ios: Torch7 Library - Convert NN Models To iOS Format"
+    },
+    {
+      "description": "Keras models with python-based convertor to provide embedding in IOS platform.",
+      "items": [],
+      "title": "Bulochkin/keras_models: Keras models with python-based convertor to provide embedding in IOS platform"
+    },
+    {
+      "description": "Tools for converting Keras models for use with other ML frameworks (coreML, TensorFlow).",
+      "items": [],
+      "title": "triagemd/model-converters: Tools for converting Keras models for use with other ML frameworks"
+    },
+    {
+      "description": "Google collaborated with Apple to create a Tensorflow to CoreML converter announcement.\nSupport for Core ML is provided through a tool that takes a TensorFlow model and converts it to the Core ML Model Format (.mlmodel).",
+      "items": [],
+      "title": "Apple & Google: Tensorflow to CoreML converter"
+    },
+    {
+      "description": "Convert to Paddle model.",
+      "items": [],
+      "title": "Paddle convertor"
+    },
+    {
+      "description": "X2Paddle is a toolkit for converting trained model to PaddlePaddle from other deep learning frameworks.\nMore detailed models: X2Paddle/x2paddle_model_zoo.md at develop · PaddlePaddle/X2Paddle",
+      "items": [],
+      "title": "PaddlePaddle/X2Paddle: X2Paddle is a toolkit for converting trained model to PaddlePaddle from other deep learning frameworks. 支持主流深度学习框架模型转换至PaddlePaddle『飞桨』"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:03:58.955Z",
+    "original_repository": "ysh329/deep-learning-model-convertor",
+    "original_repository_sha": "30ceb94bbd6f46cb010f00503c49c89cf07293f2",
+    "enhanced_repository": "enhansome/enhansome-deep-learning-model-convertor",
+    "enhanced_repository_description": null,
+    "title": "Awesome Deep Learning Model Convertors with stars"
+  }
+}
