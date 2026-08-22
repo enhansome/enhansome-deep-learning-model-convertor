@@ -31,7 +31,7 @@
                 "last_commit": "2023-10-25T21:28:33Z",
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20809
+                "stars": 20810
               },
               "title": "mxnet/tools/caffe_converter"
             },
@@ -289,7 +289,7 @@
                     "last_commit": "2023-02-07T16:51:06Z",
                     "owner": "facebookarchive",
                     "repo": "caffe2",
-                    "stars": 8371
+                    "stars": 8370
                   }
                 },
                 {
@@ -304,7 +304,7 @@
                     "last_commit": "2023-02-07T16:51:06Z",
                     "owner": "facebookarchive",
                     "repo": "caffe2",
-                    "stars": 8371
+                    "stars": 8370
                   }
                 }
               ],
@@ -777,7 +777,7 @@
                 "last_commit": "2023-10-23T23:26:26Z",
                 "owner": "thtrieu",
                 "repo": "darkflow",
-                "stars": 6140
+                "stars": 6141
               },
               "title": "thtrieu/darkflow"
             },
@@ -904,7 +904,7 @@
                 "last_commit": "2023-10-25T21:28:33Z",
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20809
+                "stars": 20810
               },
               "title": "mxnet/tools/mxnet-to-coreml"
             },
@@ -1015,7 +1015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:02:44.172Z",
+    "last_updated": "2026-08-22T18:53:19.795Z",
     "original_repository": "ysh329/deep-learning-model-convertor",
     "original_repository_id": 88418646,
     "original_repository_sha": "30ceb94bbd6f46cb010f00503c49c89cf07293f2",
