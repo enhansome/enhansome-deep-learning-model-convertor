@@ -345,7 +345,7 @@
                 "last_commit": "2023-03-11T07:31:35Z",
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17596
+                "stars": 17595
               },
               "title": "crosstalkcaffe/CaffeConverter"
             },
@@ -360,7 +360,7 @@
                 "last_commit": "2023-03-11T07:31:35Z",
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17596
+                "stars": 17595
               },
               "title": "crosstalk"
             }
@@ -702,7 +702,7 @@
                 "last_commit": "2023-03-11T07:31:35Z",
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17596
+                "stars": 17595
               },
               "title": "crosstalk"
             },
@@ -1015,7 +1015,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T18:53:19.795Z",
+    "last_updated": "2026-08-23T18:52:17.421Z",
     "original_repository": "ysh329/deep-learning-model-convertor",
     "original_repository_id": 88418646,
     "original_repository_sha": "30ceb94bbd6f46cb010f00503c49c89cf07293f2",
