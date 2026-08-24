@@ -15,7 +15,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34559
+            "stars": 34558
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 73328905,
             "language": "Python",
-            "last_commit": "2026-08-24T11:42:14Z",
+            "last_commit": "2026-08-24T18:24:39Z",
             "owner": "pytorch",
             "repo": "vision",
             "stars": 17879
@@ -135,7 +135,7 @@
             "last_commit": "2025-01-15T17:54:36Z",
             "owner": "PaddlePaddle",
             "repo": "models",
-            "stars": 6932
+            "stars": 6931
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34559
+            "stars": 34558
           }
         },
         {
@@ -387,7 +387,7 @@
             "archived": false,
             "id": 73328905,
             "language": "Python",
-            "last_commit": "2026-08-24T11:42:14Z",
+            "last_commit": "2026-08-24T18:24:39Z",
             "owner": "pytorch",
             "repo": "vision",
             "stars": 17879
@@ -750,7 +750,7 @@
             "last_commit": "2026-08-24T06:57:14Z",
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21350
+            "stars": 21352
           }
         },
         {
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:59:07.097Z",
+    "last_updated": "2026-08-24T19:06:15.000Z",
     "original_repository": "ysh329/deep-learning-model-convertor",
     "original_repository_id": 88418646,
     "original_repository_sha": "30ceb94bbd6f46cb010f00503c49c89cf07293f2",
