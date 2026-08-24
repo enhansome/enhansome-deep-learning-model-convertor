@@ -4,6 +4,799 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "caffe",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12791642,
+            "language": "C++",
+            "last_commit": "2024-07-31T23:10:28Z",
+            "owner": "BVLC",
+            "repo": "caffe",
+            "stars": 34559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caffe2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 38066334,
+            "language": "Shell",
+            "last_commit": "2023-02-07T16:51:06Z",
+            "owner": "facebookarchive",
+            "repo": "caffe2",
+            "stars": 8370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theano",
+          "description": "/lasagne",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2183193,
+            "language": "Python",
+            "last_commit": "2024-01-15T03:16:24Z",
+            "owner": "Theano",
+            "repo": "Theano",
+            "stars": 9998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 53688234,
+            "language": "Python",
+            "last_commit": "2023-01-03T22:54:19Z",
+            "owner": "NervanaSystems",
+            "repo": "ModelZoo",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytorch",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73328905,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:42:14Z",
+            "owner": "pytorch",
+            "repo": "vision",
+            "stars": 17879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "torch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13677187,
+            "language": "C",
+            "last_commit": "2025-03-31T20:16:24Z",
+            "owner": "torch",
+            "repo": "torch7",
+            "stars": 9142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "keras",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64878964,
+            "language": "Python",
+            "last_commit": "2020-10-01T05:28:40Z",
+            "owner": "fchollet",
+            "repo": "deep-learning-models",
+            "stars": 7348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tensorflow",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51117837,
+            "language": "Python",
+            "last_commit": "2026-08-21T16:27:30Z",
+            "owner": "tensorflow",
+            "repo": "models",
+            "stars": 77648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "paddle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88868842,
+            "language": "Python",
+            "last_commit": "2025-01-15T17:54:36Z",
+            "owner": "PaddlePaddle",
+            "repo": "models",
+            "stars": 6932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMdnn",
+          "description": "MXNet2Caffe Mxnet2Caffe",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100464123,
+            "language": "Python",
+            "last_commit": "2025-08-07T06:18:09Z",
+            "owner": "microsoft",
+            "repo": "MMdnn",
+            "stars": 5805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mxnet-to-coreml",
+          "description": "MMdnn",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 34864402,
+            "language": "C++",
+            "last_commit": "2023-10-25T21:28:33Z",
+            "owner": "apache",
+            "repo": "mxnet",
+            "stars": 20810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caffe",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12791642,
+            "language": "C++",
+            "last_commit": "2024-07-31T23:10:28Z",
+            "owner": "BVLC",
+            "repo": "caffe",
+            "stars": 34559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mxnet/tools/caffe_converter",
+          "description": "ResNet_caffe2mxnet MMdnn",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 34864402,
+            "language": "C++",
+            "last_commit": "2023-10-25T21:28:33Z",
+            "owner": "apache",
+            "repo": "mxnet",
+            "stars": 20810
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CaffeToCaffe2",
+          "description": "MMdnn (through ONNX)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100464123,
+            "language": "Python",
+            "last_commit": "2025-08-07T06:18:09Z",
+            "owner": "microsoft",
+            "repo": "MMdnn",
+            "stars": 5805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crosstalkcaffe/CaffeConverter",
+          "description": "MMdnn",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 46918116,
+            "language": "C++",
+            "last_commit": "2023-03-11T07:31:35Z",
+            "owner": "microsoft",
+            "repo": "CNTK",
+            "stars": 17597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caffe_theano_conversion",
+          "description": "caffe-model-convert caffe-to-theano",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31578224,
+            "language": "Python",
+            "last_commit": "2015-03-27T22:49:03Z",
+            "owner": "an-kumar",
+            "repo": "caffe-theano-conversion",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caffe2neon",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 51257700,
+            "language": "Python",
+            "last_commit": "2023-01-03T22:54:00Z",
+            "owner": "NervanaSystems",
+            "repo": "caffe2neon",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "keras-caffe-converter",
+          "description": "caffe_weight_converter caffe2keras nn_tools keras caffe2keras Deep_Learning_Model_Converter MMdnn",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 300561626,
+            "language": "Python",
+            "last_commit": "2022-06-20T15:08:34Z",
+            "owner": "AlexPasqua",
+            "repo": "keras-caffe-converter",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoreMLZoo",
+          "description": "apple/coremltools MMdnn",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93556354,
+            "language": null,
+            "last_commit": "2017-06-06T20:41:37Z",
+            "owner": "mdering",
+            "repo": "CoreMLZoo",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "X2Paddle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164796418,
+            "language": "Python",
+            "last_commit": "2025-10-22T02:49:23Z",
+            "owner": "PaddlePaddle",
+            "repo": "X2Paddle",
+            "stars": 773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caffe2onnx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 409476668,
+            "language": "Python",
+            "last_commit": "2022-11-16T10:48:18Z",
+            "owner": "inisis",
+            "repo": "caffe2onnx",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caffe2",
+          "description": "None None - ONNX None None ONNX None None None None None None None None",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 38066334,
+            "language": "Shell",
+            "last_commit": "2023-02-07T16:51:06Z",
+            "owner": "facebookarchive",
+            "repo": "caffe2",
+            "stars": 8370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CNTK",
+          "description": "MMdnn MMdnn ONNX MMdnn (through ONNX) - None None ONNX MMdnn None MMdnn None MMdnn None MMdnn None None",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100464123,
+            "language": "Python",
+            "last_commit": "2025-08-07T06:18:09Z",
+            "owner": "microsoft",
+            "repo": "MMdnn",
+            "stars": 5805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "theano/lasagne",
+          "description": "None None None None - None None None None None None None None None None",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2183193,
+            "language": "Python",
+            "last_commit": "2024-01-15T03:16:24Z",
+            "owner": "Theano",
+            "repo": "Theano",
+            "stars": 9998
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neon",
+          "description": "None None None None None - None None None None None None None None None",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 53688234,
+            "language": "Python",
+            "last_commit": "2023-01-03T22:54:19Z",
+            "owner": "NervanaSystems",
+            "repo": "ModelZoo",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytorch",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73328905,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:42:14Z",
+            "owner": "pytorch",
+            "repo": "vision",
+            "stars": 17879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMdnn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100464123,
+            "language": "Python",
+            "last_commit": "2025-08-07T06:18:09Z",
+            "owner": "microsoft",
+            "repo": "MMdnn",
+            "stars": 5805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "brocolli",
+          "description": "PytorchToCaffe MMdnn pytorch2caffe pytorch-caffe-darknet-convert",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168733444,
+            "language": "Python",
+            "last_commit": "2024-06-07T15:53:50Z",
+            "owner": "inisis",
+            "repo": "brocolli",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "onnx-caffe2",
+          "description": "MMdnn (through ONNX)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 102693613,
+            "language": "Python",
+            "last_commit": "2018-03-02T07:53:14Z",
+            "owner": "onnx",
+            "repo": "onnx-caffe2",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "torch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13677187,
+            "language": "C",
+            "last_commit": "2025-03-31T20:16:24Z",
+            "owner": "torch",
+            "repo": "torch7",
+            "stars": 9142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fb-caffe-exts/torch2caffe",
+          "description": "mocha trans-torch th2caffe",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 46437262,
+            "language": "C++",
+            "last_commit": "2019-02-04T23:39:08Z",
+            "owner": "facebookarchive",
+            "repo": "fb-caffe-exts",
+            "stars": 459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Torch2Caffe2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 125798229,
+            "language": "Python",
+            "last_commit": "2018-03-23T09:46:10Z",
+            "owner": "ca1773130n",
+            "repo": "Torch2Caffe2",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "convert_torch_to_pytorch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 82146922,
+            "language": "Python",
+            "last_commit": "2023-07-10T23:21:03Z",
+            "owner": "clcarwin",
+            "repo": "convert_torch_to_pytorch",
+            "stars": 541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "torch2coreml",
+          "description": "torch2ios",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 100525727,
+            "language": "Python",
+            "last_commit": "2017-12-04T21:37:19Z",
+            "owner": "prisma-ai",
+            "repo": "torch2coreml",
+            "stars": 384
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "keras",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64878964,
+            "language": "Python",
+            "last_commit": "2020-10-01T05:28:40Z",
+            "owner": "fchollet",
+            "repo": "deep-learning-models",
+            "stars": 7348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMdnn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100464123,
+            "language": "Python",
+            "last_commit": "2025-08-07T06:18:09Z",
+            "owner": "microsoft",
+            "repo": "MMdnn",
+            "stars": 5805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "keras-caffe-converter",
+          "description": "MMdnn nn_tools keras2caffe",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 300561626,
+            "language": "Python",
+            "last_commit": "2022-06-20T15:08:34Z",
+            "owner": "AlexPasqua",
+            "repo": "keras-caffe-converter",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nn_tools",
+          "description": "convert-to-tensorflow keras_to_tensorflow keras_to_tensorflow MMdnn",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75267939,
+            "language": "Python",
+            "last_commit": "2021-01-31T06:49:14Z",
+            "owner": "hahnyuan",
+            "repo": "nn_tools",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "apple/coremltools",
+          "description": "sparkles: model-converters keras_models MMdnn",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100529691,
+            "language": "Python",
+            "last_commit": "2020-06-04T08:53:56Z",
+            "owner": "triagemd",
+            "repo": "model-converters",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMdnn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100464123,
+            "language": "Python",
+            "last_commit": "2025-08-07T06:18:09Z",
+            "owner": "microsoft",
+            "repo": "MMdnn",
+            "stars": 5805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DW2TF",
+          "description": "darkflow lego_yolo",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 118317875,
+            "language": "Python",
+            "last_commit": "2023-02-17T14:21:33Z",
+            "owner": "jinyu121",
+            "repo": "DW2TF",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tensorflow",
+          "description": "sparkles:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51117837,
+            "language": "Python",
+            "last_commit": "2026-08-21T16:27:30Z",
+            "owner": "tensorflow",
+            "repo": "models",
+            "stars": 77648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMdnn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100464123,
+            "language": "Python",
+            "last_commit": "2025-08-07T06:18:09Z",
+            "owner": "microsoft",
+            "repo": "MMdnn",
+            "stars": 5805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crosstalk",
+          "description": "MMdnn",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 46918116,
+            "language": "C++",
+            "last_commit": "2023-03-11T07:31:35Z",
+            "owner": "microsoft",
+            "repo": "CNTK",
+            "stars": 17597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytorch-tf",
+          "description": "MMdnn",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89765692,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-05-04T03:40:35Z",
+            "owner": "leonidk",
+            "repo": "pytorch-tf",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "model-converters",
+          "description": "nn_tools convert-to-tensorflow MMdnn",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100529691,
+            "language": "Python",
+            "last_commit": "2020-06-04T08:53:56Z",
+            "owner": "triagemd",
+            "repo": "model-converters",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tfcoreml",
+          "description": "MMdnn",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 106602694,
+            "language": "Python",
+            "last_commit": "2020-07-01T16:48:19Z",
+            "owner": "tf-coreml",
+            "repo": "tf-coreml",
+            "stars": 1328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "X2Paddle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164796418,
+            "language": "Python",
+            "last_commit": "2025-10-22T02:49:23Z",
+            "owner": "PaddlePaddle",
+            "repo": "X2Paddle",
+            "stars": 773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coreML/iOS",
+          "description": "sparkles: MMdnn MMdnn MMdnn (through ONNX) MMdnn None None MMdnn None MMdnn None MMdnn None - None",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100464123,
+            "language": "Python",
+            "last_commit": "2025-08-07T06:18:09Z",
+            "owner": "microsoft",
+            "repo": "MMdnn",
+            "stars": 5805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ONNX",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 102692863,
+            "language": "Python",
+            "last_commit": "2026-08-24T06:57:14Z",
+            "owner": "onnx",
+            "repo": "onnx",
+            "stars": 21350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "X2Paddle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164796418,
+            "language": "Python",
+            "last_commit": "2025-10-22T02:49:23Z",
+            "owner": "PaddlePaddle",
+            "repo": "X2Paddle",
+            "stars": 773
+          }
+        }
+      ],
+      "title": "Overview"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MMdnn",
+              "description": "is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between CaffeEmit, CNTK, CoreML, Keras, MXNet, ONNX, PyTorch and TensorFlow.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100464123,
+                "language": "Python",
+                "last_commit": "2025-08-07T06:18:09Z",
+                "owner": "microsoft",
+                "repo": "MMdnn",
+                "stars": 5805
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MMdnn"
+        },
+        {
           "children": [
             {
               "children": [],
@@ -21,7 +814,23 @@
               "title": "mdering/CoreMLZoo: A few models converted from caffe to CoreMLs format"
             },
             {
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Calling Caffe operators in MXNet More concretly, please refer to mxnet/tools/caffe_converter",
+                  "description": "and How to | Convert from Caffe to MXNet.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 34864402,
+                    "language": "C++",
+                    "last_commit": "2023-10-25T21:28:33Z",
+                    "owner": "apache",
+                    "repo": "mxnet",
+                    "stars": 20810
+                  }
+                }
+              ],
               "description": "Key topics covered include the following:",
               "node_type": "item",
               "repo_info": {
@@ -161,7 +970,7 @@
                     "last_commit": "2017-09-10T05:47:38Z",
                     "owner": "kentsommer",
                     "repo": "keras-inceptionV4",
-                    "stars": 468
+                    "stars": 467
                   }
                 },
                 {
@@ -345,7 +1154,7 @@
                 "last_commit": "2023-03-11T07:31:35Z",
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17595
+                "stars": 17597
               },
               "title": "crosstalkcaffe/CaffeConverter"
             },
@@ -360,7 +1169,7 @@
                 "last_commit": "2023-03-11T07:31:35Z",
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17595
+                "stars": 17597
               },
               "title": "crosstalk"
             }
@@ -702,7 +1511,7 @@
                 "last_commit": "2023-03-11T07:31:35Z",
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17595
+                "stars": 17597
               },
               "title": "crosstalk"
             },
@@ -1015,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:52:17.421Z",
+    "last_updated": "2026-08-24T13:59:07.097Z",
     "original_repository": "ysh329/deep-learning-model-convertor",
     "original_repository_id": 88418646,
     "original_repository_sha": "30ceb94bbd6f46cb010f00503c49c89cf07293f2",
