@@ -747,10 +747,10 @@
             "archived": false,
             "id": 102692863,
             "language": "Python",
-            "last_commit": "2026-08-24T06:57:14Z",
+            "last_commit": "2026-08-24T23:06:48Z",
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21352
+            "stars": 21353
           }
         },
         {
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T19:06:15.000Z",
+    "last_updated": "2026-08-25T05:57:38.742Z",
     "original_repository": "ysh329/deep-learning-model-convertor",
     "original_repository_id": 88418646,
     "original_repository_sha": "30ceb94bbd6f46cb010f00503c49c89cf07293f2",
