@@ -15,7 +15,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34558
+            "stars": 34556
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 73328905,
             "language": "Python",
-            "last_commit": "2026-08-24T18:24:39Z",
+            "last_commit": "2026-08-25T11:41:51Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17879
+            "stars": 17883
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-21T16:27:30Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648
+            "stars": 77649
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34558
+            "stars": 34556
           }
         },
         {
@@ -387,10 +387,10 @@
             "archived": false,
             "id": 73328905,
             "language": "Python",
-            "last_commit": "2026-08-24T18:24:39Z",
+            "last_commit": "2026-08-25T11:41:51Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17879
+            "stars": 17883
           }
         },
         {
@@ -630,7 +630,7 @@
             "last_commit": "2026-08-21T16:27:30Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77648
+            "stars": 77649
           }
         },
         {
@@ -747,10 +747,10 @@
             "archived": false,
             "id": 102692863,
             "language": "Python",
-            "last_commit": "2026-08-24T23:06:48Z",
+            "last_commit": "2026-08-25T18:15:42Z",
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21353
+            "stars": 21357
           }
         },
         {
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:38.742Z",
+    "last_updated": "2026-08-25T19:04:32.271Z",
     "original_repository": "ysh329/deep-learning-model-convertor",
     "original_repository_id": 88418646,
     "original_repository_sha": "30ceb94bbd6f46cb010f00503c49c89cf07293f2",
