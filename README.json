@@ -15,7 +15,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34556
+            "stars": 34555
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 73328905,
             "language": "Python",
-            "last_commit": "2026-08-25T11:41:51Z",
+            "last_commit": "2026-08-26T14:37:48Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17883
+            "stars": 17885
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-03-31T20:16:24Z",
             "owner": "torch",
             "repo": "torch7",
-            "stars": 9142
+            "stars": 9141
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-21T16:27:30Z",
+            "last_commit": "2026-08-25T21:25:59Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77649
+            "stars": 77652
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2025-01-15T17:54:36Z",
             "owner": "PaddlePaddle",
             "repo": "models",
-            "stars": 6931
+            "stars": 6932
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2023-10-25T21:28:33Z",
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20810
+            "stars": 20811
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34556
+            "stars": 34555
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2023-10-25T21:28:33Z",
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20810
+            "stars": 20811
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2023-03-11T07:31:35Z",
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17597
+            "stars": 17595
           }
         },
         {
@@ -387,10 +387,10 @@
             "archived": false,
             "id": 73328905,
             "language": "Python",
-            "last_commit": "2026-08-25T11:41:51Z",
+            "last_commit": "2026-08-26T14:37:48Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17883
+            "stars": 17885
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2025-03-31T20:16:24Z",
             "owner": "torch",
             "repo": "torch7",
-            "stars": 9142
+            "stars": 9141
           }
         },
         {
@@ -627,10 +627,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-21T16:27:30Z",
+            "last_commit": "2026-08-25T21:25:59Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77649
+            "stars": 77652
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2023-03-11T07:31:35Z",
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17597
+            "stars": 17595
           }
         },
         {
@@ -747,10 +747,10 @@
             "archived": false,
             "id": 102692863,
             "language": "Python",
-            "last_commit": "2026-08-25T18:15:42Z",
+            "last_commit": "2026-08-26T19:23:48Z",
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21357
+            "stars": 21364
           }
         },
         {
@@ -827,7 +827,7 @@
                     "last_commit": "2023-10-25T21:28:33Z",
                     "owner": "apache",
                     "repo": "mxnet",
-                    "stars": 20810
+                    "stars": 20811
                   }
                 }
               ],
@@ -840,7 +840,7 @@
                 "last_commit": "2023-10-25T21:28:33Z",
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20810
+                "stars": 20811
               },
               "title": "mxnet/tools/caffe_converter"
             },
@@ -1154,7 +1154,7 @@
                 "last_commit": "2023-03-11T07:31:35Z",
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17597
+                "stars": 17595
               },
               "title": "crosstalkcaffe/CaffeConverter"
             },
@@ -1169,7 +1169,7 @@
                 "last_commit": "2023-03-11T07:31:35Z",
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17597
+                "stars": 17595
               },
               "title": "crosstalk"
             }
@@ -1511,7 +1511,7 @@
                 "last_commit": "2023-03-11T07:31:35Z",
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17597
+                "stars": 17595
               },
               "title": "crosstalk"
             },
@@ -1586,7 +1586,7 @@
                 "last_commit": "2023-10-23T23:26:26Z",
                 "owner": "thtrieu",
                 "repo": "darkflow",
-                "stars": 6141
+                "stars": 6140
               },
               "title": "thtrieu/darkflow"
             },
@@ -1713,7 +1713,7 @@
                 "last_commit": "2023-10-25T21:28:33Z",
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20810
+                "stars": 20811
               },
               "title": "mxnet/tools/mxnet-to-coreml"
             },
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T19:04:32.271Z",
+    "last_updated": "2026-08-26T20:14:05.197Z",
     "original_repository": "ysh329/deep-learning-model-convertor",
     "original_repository_id": 88418646,
     "original_repository_sha": "30ceb94bbd6f46cb010f00503c49c89cf07293f2",
