@@ -15,7 +15,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34555
+            "stars": 34556
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2023-02-07T16:51:06Z",
             "owner": "facebookarchive",
             "repo": "caffe2",
-            "stars": 8370
+            "stars": 8371
           }
         },
         {
@@ -72,7 +72,7 @@
             "archived": false,
             "id": 73328905,
             "language": "Python",
-            "last_commit": "2026-08-26T14:37:48Z",
+            "last_commit": "2026-08-27T09:09:48Z",
             "owner": "pytorch",
             "repo": "vision",
             "stars": 17885
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-25T21:25:59Z",
+            "last_commit": "2026-08-27T04:28:47Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652
+            "stars": 77653
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34555
+            "stars": 34556
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2023-03-11T07:31:35Z",
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17595
+            "stars": 17594
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2023-02-07T16:51:06Z",
             "owner": "facebookarchive",
             "repo": "caffe2",
-            "stars": 8370
+            "stars": 8371
           }
         },
         {
@@ -387,7 +387,7 @@
             "archived": false,
             "id": 73328905,
             "language": "Python",
-            "last_commit": "2026-08-26T14:37:48Z",
+            "last_commit": "2026-08-27T09:09:48Z",
             "owner": "pytorch",
             "repo": "vision",
             "stars": 17885
@@ -627,10 +627,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-25T21:25:59Z",
+            "last_commit": "2026-08-27T04:28:47Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652
+            "stars": 77653
           }
         },
         {
@@ -660,7 +660,7 @@
             "last_commit": "2023-03-11T07:31:35Z",
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17595
+            "stars": 17594
           }
         },
         {
@@ -747,10 +747,10 @@
             "archived": false,
             "id": 102692863,
             "language": "Python",
-            "last_commit": "2026-08-26T19:23:48Z",
+            "last_commit": "2026-08-27T00:44:20Z",
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21364
+            "stars": 21370
           }
         },
         {
@@ -1098,7 +1098,7 @@
                     "last_commit": "2023-02-07T16:51:06Z",
                     "owner": "facebookarchive",
                     "repo": "caffe2",
-                    "stars": 8370
+                    "stars": 8371
                   }
                 },
                 {
@@ -1113,7 +1113,7 @@
                     "last_commit": "2023-02-07T16:51:06Z",
                     "owner": "facebookarchive",
                     "repo": "caffe2",
-                    "stars": 8370
+                    "stars": 8371
                   }
                 }
               ],
@@ -1154,7 +1154,7 @@
                 "last_commit": "2023-03-11T07:31:35Z",
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17595
+                "stars": 17594
               },
               "title": "crosstalkcaffe/CaffeConverter"
             },
@@ -1169,7 +1169,7 @@
                 "last_commit": "2023-03-11T07:31:35Z",
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17595
+                "stars": 17594
               },
               "title": "crosstalk"
             }
@@ -1511,7 +1511,7 @@
                 "last_commit": "2023-03-11T07:31:35Z",
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17595
+                "stars": 17594
               },
               "title": "crosstalk"
             },
@@ -1586,7 +1586,7 @@
                 "last_commit": "2023-10-23T23:26:26Z",
                 "owner": "thtrieu",
                 "repo": "darkflow",
-                "stars": 6140
+                "stars": 6139
               },
               "title": "thtrieu/darkflow"
             },
@@ -1824,9 +1824,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T20:14:05.197Z",
-    "original_repository": "ysh329/deep-learning-model-convertor",
-    "original_repository_id": 88418646,
+    "last_updated": "2026-08-27T11:33:10.104Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 88418646,
+      "language": null,
+      "last_commit": "2023-06-26T14:22:18Z",
+      "owner": "ysh329",
+      "repo": "deep-learning-model-convertor",
+      "stars": 3236
+    },
     "original_repository_sha": "30ceb94bbd6f46cb010f00503c49c89cf07293f2",
     "enhanced_repository": "enhansome/enhansome-deep-learning-model-convertor",
     "enhanced_repository_description": null,
