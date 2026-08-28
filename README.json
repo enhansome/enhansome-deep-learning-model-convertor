@@ -72,10 +72,10 @@
             "archived": false,
             "id": 73328905,
             "language": "Python",
-            "last_commit": "2026-08-27T09:09:48Z",
+            "last_commit": "2026-08-27T15:12:54Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17885
+            "stars": 17886
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-27T04:28:47Z",
+            "last_commit": "2026-08-28T01:33:46Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653
+            "stars": 77656
           }
         },
         {
@@ -387,10 +387,10 @@
             "archived": false,
             "id": 73328905,
             "language": "Python",
-            "last_commit": "2026-08-27T09:09:48Z",
+            "last_commit": "2026-08-27T15:12:54Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17885
+            "stars": 17886
           }
         },
         {
@@ -627,10 +627,10 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-27T04:28:47Z",
+            "last_commit": "2026-08-28T01:33:46Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653
+            "stars": 77656
           }
         },
         {
@@ -747,10 +747,10 @@
             "archived": false,
             "id": 102692863,
             "language": "Python",
-            "last_commit": "2026-08-27T00:44:20Z",
+            "last_commit": "2026-08-28T00:09:43Z",
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21370
+            "stars": 21373
           }
         },
         {
@@ -1824,7 +1824,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:33:10.104Z",
+    "last_updated": "2026-08-28T02:12:58.440Z",
     "original_repository_info": {
       "archived": false,
       "id": 88418646,
