@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Caffe: a fast open framework for deep learning.",
+            "homepage": "http://caffe.berkeleyvision.org/",
             "id": 12791642,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-31T23:10:28Z",
+            "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34557
+            "stars": 34557,
+            "topics": [
+              "deep-learning",
+              "machine-learning",
+              "vision"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -26,12 +35,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Caffe2 is a lightweight, modular, and scalable deep learning framework.",
+            "homepage": "https://caffe2.ai",
             "id": 38066334,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-07T16:51:06Z",
+            "open_issues": 580,
             "owner": "facebookarchive",
             "repo": "caffe2",
-            "stars": 8371
+            "stars": 8371,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "caffe2",
+              "deep-learning",
+              "deep-neural-networks",
+              "machine-learning",
+              "ml"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -42,12 +64,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as PyTensor: www.github.com/pymc-devs/pytensor",
+            "homepage": "https://www.github.com/pymc-devs/pytensor",
             "id": 2183193,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-15T03:16:24Z",
+            "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 9998
+            "stars": 9998,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -58,12 +85,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "neon model zoo",
+            "homepage": null,
             "id": 53688234,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-03T22:54:19Z",
+            "open_issues": 14,
             "owner": "NervanaSystems",
             "repo": "ModelZoo",
-            "stars": 176
+            "stars": 176,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -74,12 +106,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Datasets, Transforms and Models specific to Computer Vision",
+            "homepage": "https://pytorch.org/vision",
             "id": 73328905,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T15:34:09Z",
+            "open_issues": 1198,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17887
+            "stars": 17887,
+            "topics": [
+              "computer-vision",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -90,12 +130,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "http://torch.ch",
+            "homepage": null,
             "id": 13677187,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-31T20:16:24Z",
+            "open_issues": 298,
             "owner": "torch",
             "repo": "torch7",
-            "stars": 9141
+            "stars": 9141,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -106,12 +151,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keras code and weights files for popular deep learning models.",
+            "homepage": null,
             "id": 64878964,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-10-01T05:28:40Z",
+            "open_issues": 88,
             "owner": "fchollet",
             "repo": "deep-learning-models",
-            "stars": 7348
+            "stars": 7348,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -122,12 +172,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Models and examples built with TensorFlow",
+            "homepage": null,
             "id": 51117837,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:30:48Z",
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659
+            "stars": 77658,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -138,12 +193,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Officially maintained, supported by PaddlePaddle, including CV, NLP, Speech, Rec, TS, big models and so on.",
+            "homepage": null,
             "id": 88868842,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-15T17:54:36Z",
+            "open_issues": 870,
             "owner": "PaddlePaddle",
             "repo": "models",
-            "stars": 6932
+            "stars": 6932,
+            "topics": [
+              "computer-vision",
+              "cv",
+              "deep-learning",
+              "models",
+              "natural-language-processing",
+              "neural-network",
+              "nlp",
+              "paddlepaddle",
+              "recommendation",
+              "speech"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -154,12 +225,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.",
+            "homepage": null,
             "id": 100464123,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-07T06:18:09Z",
+            "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5805
+            "stars": 5805,
+            "topics": [
+              "caffe",
+              "cntk",
+              "coreml",
+              "darknet",
+              "keras",
+              "model-converter",
+              "mxnet",
+              "onnx",
+              "pytorch",
+              "tensorflow",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -170,12 +258,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more",
+            "homepage": "https://mxnet.apache.org",
             "id": 34864402,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-25T21:28:33Z",
+            "open_issues": 2007,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20811
+            "stars": 20811,
+            "topics": [
+              "mxnet"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -186,12 +281,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Caffe: a fast open framework for deep learning.",
+            "homepage": "http://caffe.berkeleyvision.org/",
             "id": 12791642,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-31T23:10:28Z",
+            "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34557
+            "stars": 34557,
+            "topics": [
+              "deep-learning",
+              "machine-learning",
+              "vision"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -202,12 +306,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more",
+            "homepage": "https://mxnet.apache.org",
             "id": 34864402,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-25T21:28:33Z",
+            "open_issues": 2007,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20811
+            "stars": 20811,
+            "topics": [
+              "mxnet"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -218,12 +329,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.",
+            "homepage": null,
             "id": 100464123,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-07T06:18:09Z",
+            "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5805
+            "stars": 5805,
+            "topics": [
+              "caffe",
+              "cntk",
+              "coreml",
+              "darknet",
+              "keras",
+              "model-converter",
+              "mxnet",
+              "onnx",
+              "pytorch",
+              "tensorflow",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -234,12 +362,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit",
+            "homepage": "https://docs.microsoft.com/cognitive-toolkit/",
             "id": 46918116,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-11T07:31:35Z",
+            "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17595
+            "stars": 17595,
+            "topics": [
+              "c-plus-plus",
+              "c-sharp",
+              "cntk",
+              "cognitive-toolkit",
+              "deep-learning",
+              "deep-neural-networks",
+              "distributed",
+              "java",
+              "machine-learning",
+              "neural-network",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -250,12 +395,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 31578224,
             "language": "Python",
+            "license": null,
             "last_commit": "2015-03-27T22:49:03Z",
+            "open_issues": 5,
             "owner": "an-kumar",
             "repo": "caffe-theano-conversion",
-            "stars": 88
+            "stars": 88,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -266,12 +416,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tools to convert Caffe models to neon's serialization format",
+            "homepage": null,
             "id": 51257700,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-03T22:54:00Z",
+            "open_issues": 1,
             "owner": "NervanaSystems",
             "repo": "caffe2neon",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -282,12 +437,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keras - Caffe converter (both directions) with pruning demos in Keras. Originally developed as BSc thesis project @ University of Verona",
+            "homepage": null,
             "id": 300561626,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-06-20T15:08:34Z",
+            "open_issues": 1,
             "owner": "AlexPasqua",
             "repo": "keras-caffe-converter",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "caffe",
+              "caffe-keras-converter",
+              "keras",
+              "keras-caffe-converter",
+              "neural-networks",
+              "nns-converter",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -298,12 +466,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A few models converted from caffe to CoreMLs format. ",
+            "homepage": null,
             "id": 93556354,
             "language": null,
+            "license": null,
             "last_commit": "2017-06-06T20:41:37Z",
+            "open_issues": 2,
             "owner": "mdering",
             "repo": "CoreMLZoo",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -314,12 +487,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep learning model converter for PaddlePaddle. (『飞桨』深度学习模型转换工具)",
+            "homepage": "http://www.paddlepaddle.org/",
             "id": 164796418,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-22T02:49:23Z",
+            "open_issues": 275,
             "owner": "PaddlePaddle",
             "repo": "X2Paddle",
-            "stars": 773
+            "stars": 773,
+            "topics": [
+              "caffe",
+              "model-converter",
+              "onnx",
+              "paddlepaddle",
+              "pytorch",
+              "tensorflow",
+              "x2paddle-model-zoo"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -330,12 +516,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "caffe model to onnx",
+            "homepage": null,
             "id": 409476668,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-16T10:48:18Z",
+            "open_issues": 1,
             "owner": "inisis",
             "repo": "caffe2onnx",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -346,12 +537,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Caffe2 is a lightweight, modular, and scalable deep learning framework.",
+            "homepage": "https://caffe2.ai",
             "id": 38066334,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-07T16:51:06Z",
+            "open_issues": 580,
             "owner": "facebookarchive",
             "repo": "caffe2",
-            "stars": 8371
+            "stars": 8371,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "caffe2",
+              "deep-learning",
+              "deep-neural-networks",
+              "machine-learning",
+              "ml"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -362,12 +566,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.",
+            "homepage": null,
             "id": 100464123,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-07T06:18:09Z",
+            "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5805
+            "stars": 5805,
+            "topics": [
+              "caffe",
+              "cntk",
+              "coreml",
+              "darknet",
+              "keras",
+              "model-converter",
+              "mxnet",
+              "onnx",
+              "pytorch",
+              "tensorflow",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -378,12 +599,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Theano was a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It is being continued as PyTensor: www.github.com/pymc-devs/pytensor",
+            "homepage": "https://www.github.com/pymc-devs/pytensor",
             "id": 2183193,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-15T03:16:24Z",
+            "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 9998
+            "stars": 9998,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -394,12 +620,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "neon model zoo",
+            "homepage": null,
             "id": 53688234,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-03T22:54:19Z",
+            "open_issues": 14,
             "owner": "NervanaSystems",
             "repo": "ModelZoo",
-            "stars": 176
+            "stars": 176,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -410,12 +641,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Datasets, Transforms and Models specific to Computer Vision",
+            "homepage": "https://pytorch.org/vision",
             "id": 73328905,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T15:34:09Z",
+            "open_issues": 1198,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17887
+            "stars": 17887,
+            "topics": [
+              "computer-vision",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -426,12 +665,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.",
+            "homepage": null,
             "id": 100464123,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-07T06:18:09Z",
+            "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5805
+            "stars": 5805,
+            "topics": [
+              "caffe",
+              "cntk",
+              "coreml",
+              "darknet",
+              "keras",
+              "model-converter",
+              "mxnet",
+              "onnx",
+              "pytorch",
+              "tensorflow",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -442,12 +698,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Everything in Torch Fx",
+            "homepage": null,
             "id": 168733444,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-07T15:53:50Z",
+            "open_issues": 2,
             "owner": "inisis",
             "repo": "brocolli",
-            "stars": 343
+            "stars": 343,
+            "topics": [
+              "caffe",
+              "onnx",
+              "pytorch",
+              "quantization"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -458,12 +724,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Caffe2 implementation of Open Neural Network Exchange (ONNX)",
+            "homepage": null,
             "id": 102693613,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2018-03-02T07:53:14Z",
+            "open_issues": 37,
             "owner": "onnx",
             "repo": "onnx-caffe2",
-            "stars": 167
+            "stars": 167,
+            "topics": [
+              "caffe2",
+              "deep-learning",
+              "deep-neural-networks"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -474,12 +749,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "http://torch.ch",
+            "homepage": null,
             "id": 13677187,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-31T20:16:24Z",
+            "open_issues": 298,
             "owner": "torch",
             "repo": "torch7",
-            "stars": 9141
+            "stars": 9141,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -490,12 +770,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Some handy utility libraries and tools for the Caffe deep learning framework.",
+            "homepage": null,
             "id": 46437262,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2019-02-04T23:39:08Z",
+            "open_issues": 24,
             "owner": "facebookarchive",
             "repo": "fb-caffe-exts",
-            "stars": 459
+            "stars": 459,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -506,12 +791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 125798229,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-03-23T09:46:10Z",
+            "open_issues": 1,
             "owner": "ca1773130n",
             "repo": "Torch2Caffe2",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -522,12 +812,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert torch t7 model to pytorch model and source.",
+            "homepage": null,
             "id": 82146922,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-10T23:21:03Z",
+            "open_issues": 28,
             "owner": "clcarwin",
             "repo": "convert_torch_to_pytorch",
-            "stars": 541
+            "stars": 541,
+            "topics": [
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -538,12 +835,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Torch7 -> CoreML",
+            "homepage": null,
             "id": 100525727,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-12-04T21:37:19Z",
+            "open_issues": 13,
             "owner": "prisma-ai",
             "repo": "torch2coreml",
-            "stars": 384
+            "stars": 384,
+            "topics": [
+              "ai",
+              "coreml",
+              "deep-learning",
+              "ios",
+              "ios11",
+              "neural-style",
+              "torch"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -554,12 +864,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keras code and weights files for popular deep learning models.",
+            "homepage": null,
             "id": 64878964,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-10-01T05:28:40Z",
+            "open_issues": 88,
             "owner": "fchollet",
             "repo": "deep-learning-models",
-            "stars": 7348
+            "stars": 7348,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -570,12 +885,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.",
+            "homepage": null,
             "id": 100464123,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-07T06:18:09Z",
+            "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5805
+            "stars": 5805,
+            "topics": [
+              "caffe",
+              "cntk",
+              "coreml",
+              "darknet",
+              "keras",
+              "model-converter",
+              "mxnet",
+              "onnx",
+              "pytorch",
+              "tensorflow",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -586,12 +918,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keras - Caffe converter (both directions) with pruning demos in Keras. Originally developed as BSc thesis project @ University of Verona",
+            "homepage": null,
             "id": 300561626,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2022-06-20T15:08:34Z",
+            "open_issues": 1,
             "owner": "AlexPasqua",
             "repo": "keras-caffe-converter",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "caffe",
+              "caffe-keras-converter",
+              "keras",
+              "keras-caffe-converter",
+              "neural-networks",
+              "nns-converter",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -602,12 +947,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural Network Tools: Converter and Analyzer. For caffe, pytorch, draknet and so on.",
+            "homepage": null,
             "id": 75267939,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-01-31T06:49:14Z",
+            "open_issues": 16,
             "owner": "hahnyuan",
             "repo": "nn_tools",
-            "stars": 356
+            "stars": 356,
+            "topics": [
+              "analyzer",
+              "caffe",
+              "converter",
+              "deep-learning",
+              "pytorch",
+              "tensroflow"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -618,12 +975,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for converting Keras models for use with Tensorflow",
+            "homepage": null,
             "id": 100529691,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-06-04T08:53:56Z",
+            "open_issues": 0,
             "owner": "triagemd",
             "repo": "model-converters",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "keras",
+              "machine-learning",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -634,12 +1000,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.",
+            "homepage": null,
             "id": 100464123,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-07T06:18:09Z",
+            "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5805
+            "stars": 5805,
+            "topics": [
+              "caffe",
+              "cntk",
+              "coreml",
+              "darknet",
+              "keras",
+              "model-converter",
+              "mxnet",
+              "onnx",
+              "pytorch",
+              "tensorflow",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -650,12 +1033,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Darknet Weights to TensorFlow",
+            "homepage": null,
             "id": 118317875,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-02-17T14:21:33Z",
+            "open_issues": 30,
             "owner": "jinyu121",
             "repo": "DW2TF",
-            "stars": 216
+            "stars": 216,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -666,12 +1054,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Models and examples built with TensorFlow",
+            "homepage": null,
             "id": 51117837,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:30:48Z",
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77659
+            "stars": 77658,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -682,12 +1075,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.",
+            "homepage": null,
             "id": 100464123,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-07T06:18:09Z",
+            "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5805
+            "stars": 5805,
+            "topics": [
+              "caffe",
+              "cntk",
+              "coreml",
+              "darknet",
+              "keras",
+              "model-converter",
+              "mxnet",
+              "onnx",
+              "pytorch",
+              "tensorflow",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -698,12 +1108,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit",
+            "homepage": "https://docs.microsoft.com/cognitive-toolkit/",
             "id": 46918116,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-11T07:31:35Z",
+            "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17595
+            "stars": 17595,
+            "topics": [
+              "c-plus-plus",
+              "c-sharp",
+              "cntk",
+              "cognitive-toolkit",
+              "deep-learning",
+              "deep-neural-networks",
+              "distributed",
+              "java",
+              "machine-learning",
+              "neural-network",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -714,12 +1141,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Converting a pretrained pytorch model to tensorflow",
+            "homepage": null,
             "id": 89765692,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2017-05-04T03:40:35Z",
+            "open_issues": 2,
             "owner": "leonidk",
             "repo": "pytorch-tf",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -730,12 +1162,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for converting Keras models for use with Tensorflow",
+            "homepage": null,
             "id": 100529691,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-06-04T08:53:56Z",
+            "open_issues": 0,
             "owner": "triagemd",
             "repo": "model-converters",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "keras",
+              "machine-learning",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -746,12 +1187,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow to CoreML Converter",
+            "homepage": null,
             "id": 106602694,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-07-01T16:48:19Z",
+            "open_issues": 65,
             "owner": "tf-coreml",
             "repo": "tf-coreml",
-            "stars": 1328
+            "stars": 1328,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -762,12 +1208,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep learning model converter for PaddlePaddle. (『飞桨』深度学习模型转换工具)",
+            "homepage": "http://www.paddlepaddle.org/",
             "id": 164796418,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-22T02:49:23Z",
+            "open_issues": 275,
             "owner": "PaddlePaddle",
             "repo": "X2Paddle",
-            "stars": 773
+            "stars": 773,
+            "topics": [
+              "caffe",
+              "model-converter",
+              "onnx",
+              "paddlepaddle",
+              "pytorch",
+              "tensorflow",
+              "x2paddle-model-zoo"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -778,12 +1237,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.",
+            "homepage": null,
             "id": 100464123,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-07T06:18:09Z",
+            "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5805
+            "stars": 5805,
+            "topics": [
+              "caffe",
+              "cntk",
+              "coreml",
+              "darknet",
+              "keras",
+              "model-converter",
+              "mxnet",
+              "onnx",
+              "pytorch",
+              "tensorflow",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -794,12 +1270,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open standard for machine learning interoperability",
+            "homepage": "https://onnx.ai/",
             "id": 102692863,
             "language": "Python",
-            "last_commit": "2026-08-29T01:00:07Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:11:52Z",
+            "open_issues": 276,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21376
+            "stars": 21376,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "deep-learning",
+              "deep-neural-networks",
+              "dnn",
+              "keras",
+              "machine-learning",
+              "ml",
+              "neural-network",
+              "onnx",
+              "pytorch",
+              "scikit-learn",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         },
@@ -810,12 +1305,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep learning model converter for PaddlePaddle. (『飞桨』深度学习模型转换工具)",
+            "homepage": "http://www.paddlepaddle.org/",
             "id": 164796418,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-22T02:49:23Z",
+            "open_issues": 275,
             "owner": "PaddlePaddle",
             "repo": "X2Paddle",
-            "stars": 773
+            "stars": 773,
+            "topics": [
+              "caffe",
+              "model-converter",
+              "onnx",
+              "paddlepaddle",
+              "pytorch",
+              "tensorflow",
+              "x2paddle-model-zoo"
+            ]
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
         }
@@ -834,12 +1342,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.",
+                "homepage": null,
                 "id": 100464123,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-07T06:18:09Z",
+                "open_issues": 337,
                 "owner": "microsoft",
                 "repo": "MMdnn",
-                "stars": 5805
+                "stars": 5805,
+                "topics": [
+                  "caffe",
+                  "cntk",
+                  "coreml",
+                  "darknet",
+                  "keras",
+                  "model-converter",
+                  "mxnet",
+                  "onnx",
+                  "pytorch",
+                  "tensorflow",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-29T01:47:35.756Z"
             }
@@ -856,12 +1381,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A few models converted from caffe to CoreMLs format. ",
+                "homepage": null,
                 "id": 93556354,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-06-06T20:41:37Z",
+                "open_issues": 2,
                 "owner": "mdering",
                 "repo": "CoreMLZoo",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "title": "mdering/CoreMLZoo: A few models converted from caffe to CoreMLs format",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -875,12 +1405,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more",
+                    "homepage": "https://mxnet.apache.org",
                     "id": 34864402,
                     "language": "C++",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-10-25T21:28:33Z",
+                    "open_issues": 2007,
                     "owner": "apache",
                     "repo": "mxnet",
-                    "stars": 20811
+                    "stars": 20811,
+                    "topics": [
+                      "mxnet"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:47:35.756Z"
                 }
@@ -889,12 +1426,19 @@
               "node_type": "item",
               "repo_info": {
                 "archived": true,
+                "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more",
+                "homepage": "https://mxnet.apache.org",
                 "id": 34864402,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-25T21:28:33Z",
+                "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20811
+                "stars": 20811,
+                "topics": [
+                  "mxnet"
+                ]
               },
               "title": "mxnet/tools/caffe_converter",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -905,12 +1449,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "convert the deep-residual-network(50, 101, 152) from caffe to mxnet",
+                "homepage": null,
                 "id": 66609903,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-08-26T04:07:02Z",
+                "open_issues": 0,
                 "owner": "nicklhy",
                 "repo": "ResNet_caffe2mxnet",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "title": "nicklhy/ResNet_caffe2mxnet",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -928,12 +1477,25 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Keras - Caffe converter (both directions) with pruning demos in Keras. Originally developed as BSc thesis project @ University of Verona",
+                "homepage": null,
                 "id": 300561626,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-06-20T15:08:34Z",
+                "open_issues": 1,
                 "owner": "AlexPasqua",
                 "repo": "keras-caffe-converter",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "caffe",
+                  "caffe-keras-converter",
+                  "keras",
+                  "keras-caffe-converter",
+                  "neural-networks",
+                  "nns-converter",
+                  "tensorflow"
+                ]
               },
               "title": "keras-caffe-converter",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -944,12 +1506,22 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Everything in Torch Fx",
+                "homepage": null,
                 "id": 168733444,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-06-07T15:53:50Z",
+                "open_issues": 2,
                 "owner": "inisis",
                 "repo": "brocolli",
-                "stars": 343
+                "stars": 343,
+                "topics": [
+                  "caffe",
+                  "onnx",
+                  "pytorch",
+                  "quantization"
+                ]
               },
               "title": "brocolli",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -960,12 +1532,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Convert PyTorch model to Caffemodel",
+                "homepage": null,
                 "id": 101606360,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-05-28T02:29:19Z",
+                "open_issues": 25,
                 "owner": "longcw",
                 "repo": "pytorch2caffe",
-                "stars": 538
+                "stars": 538,
+                "topics": []
               },
               "title": "pytorch2caffe",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -976,12 +1553,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Convert MXNet model to Caffe model",
+                "homepage": null,
                 "id": 81060897,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-10-24T00:45:50Z",
+                "open_issues": 10,
                 "owner": "cypw",
                 "repo": "MXNet2Caffe",
-                "stars": 163
+                "stars": 163,
+                "topics": []
               },
               "title": "cypw/MXNet2Caffe",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -992,12 +1574,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Convert MXNet model to Caffe model",
+                "homepage": null,
                 "id": 89568742,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-04-27T07:37:00Z",
+                "open_issues": 0,
                 "owner": "wranglerwong",
                 "repo": "Mxnet2Caffe",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "title": "wranglerwong/Mxnet2Caffe: Convert MXNet model to Caffe model",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1008,12 +1595,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Convert torch model to/from caffe model easily",
+                "homepage": null,
                 "id": 70474457,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-11-29T10:33:02Z",
+                "open_issues": 2,
                 "owner": "kuangliu",
                 "repo": "mocha",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "title": "kuangliu/mocha",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1027,12 +1619,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Keras Implementation of Google's Inception-V4 Architecture (includes Keras compatible pre-trained weights)",
+                    "homepage": null,
                     "id": 79427137,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2017-09-10T05:47:38Z",
+                    "open_issues": 2,
                     "owner": "kentsommer",
                     "repo": "keras-inceptionV4",
-                    "stars": 467
+                    "stars": 467,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T01:47:35.756Z"
                 },
@@ -1043,12 +1640,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SqueezeNet implementation with Keras Framework",
+                    "homepage": null,
                     "id": 70329782,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-02-24T15:38:04Z",
+                    "open_issues": 21,
                     "owner": "rcmalli",
                     "repo": "keras-squeezenet",
-                    "stars": 405
+                    "stars": 405,
+                    "topics": [
+                      "deeplearning",
+                      "keras",
+                      "squeezenet",
+                      "tensorflow"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:47:35.756Z"
                 }
@@ -1057,12 +1664,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Keras to Caffe model converter tool",
+                "homepage": null,
                 "id": 88152884,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-04-25T03:56:13Z",
+                "open_issues": 15,
                 "owner": "uhfband",
                 "repo": "keras2caffe",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "title": "uhfband/keras2caffe: Keras to Caffe model converter tool",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1073,12 +1685,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": true,
+                "description": "Some handy utility libraries and tools for the Caffe deep learning framework.",
+                "homepage": null,
                 "id": 46437262,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2019-02-04T23:39:08Z",
+                "open_issues": 24,
                 "owner": "facebookarchive",
                 "repo": "fb-caffe-exts",
-                "stars": 459
+                "stars": 459,
+                "topics": []
               },
               "title": "facebook/fb-caffe-exts/torch2caffe",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1089,12 +1706,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": true,
+                "description": "Translating Torch model to other framework such as Caffe, MxNet ... ",
+                "homepage": null,
                 "id": 71045993,
                 "language": "Lua",
+                "license": "MIT",
                 "last_commit": "2016-12-16T12:49:11Z",
+                "open_issues": 2,
                 "owner": "Teaonly",
                 "repo": "trans-torch",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "title": "Teaonly/trans-torch",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1105,12 +1727,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A torch-nn to caffe converter for specific layers.",
+                "homepage": null,
                 "id": 41279702,
                 "language": "Protocol Buffer",
+                "license": null,
                 "last_commit": "2016-10-08T13:44:36Z",
+                "open_issues": 0,
                 "owner": "e-lab",
                 "repo": "th2caffe",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "title": "e-lab/th2caffe",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1121,12 +1748,24 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Neural Network Tools: Converter and Analyzer. For caffe, pytorch, draknet and so on.",
+                "homepage": null,
                 "id": 75267939,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-01-31T06:49:14Z",
+                "open_issues": 16,
                 "owner": "hahnyuan",
                 "repo": "nn_tools",
-                "stars": 356
+                "stars": 356,
+                "topics": [
+                  "analyzer",
+                  "caffe",
+                  "converter",
+                  "deep-learning",
+                  "pytorch",
+                  "tensroflow"
+                ]
               },
               "title": "hahnyuan/nn_tools",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1137,12 +1776,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch model to caffe model, supported pytorch 0.3, 0.3.1,  0.4,  0.4.1 ,1.0 , 1.0.1 ,  1.2 ,1.3 .notice that only pytorch 1.1 have some bugs",
+                "homepage": null,
                 "id": 147632891,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-05-22T11:44:54Z",
+                "open_issues": 86,
                 "owner": "xxradon",
                 "repo": "PytorchToCaffe",
-                "stars": 778
+                "stars": 778,
+                "topics": []
               },
               "title": "xxradon/PytorchToCaffe: Pytorch model to caffe model, supported pytorch 0.3, 0.3.1, 0.4, 0.4.1 ,1.0 , 1.0.1 , 1.2 ,1.3 .notice that only pytorch 1.1 have some bugs",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1163,12 +1807,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Caffe2 is a lightweight, modular, and scalable deep learning framework.",
+                    "homepage": "https://caffe2.ai",
                     "id": 38066334,
                     "language": "Shell",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-02-07T16:51:06Z",
+                    "open_issues": 580,
                     "owner": "facebookarchive",
                     "repo": "caffe2",
-                    "stars": 8371
+                    "stars": 8371,
+                    "topics": [
+                      "ai",
+                      "artificial-intelligence",
+                      "caffe2",
+                      "deep-learning",
+                      "deep-neural-networks",
+                      "machine-learning",
+                      "ml"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:47:35.756Z"
                 },
@@ -1179,12 +1836,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Caffe2 is a lightweight, modular, and scalable deep learning framework.",
+                    "homepage": "https://caffe2.ai",
                     "id": 38066334,
                     "language": "Shell",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-02-07T16:51:06Z",
+                    "open_issues": 580,
                     "owner": "facebookarchive",
                     "repo": "caffe2",
-                    "stars": 8371
+                    "stars": 8371,
+                    "topics": [
+                      "ai",
+                      "artificial-intelligence",
+                      "caffe2",
+                      "deep-learning",
+                      "deep-neural-networks",
+                      "machine-learning",
+                      "ml"
+                    ]
                   },
                   "first_seen": "2026-08-29T01:47:35.756Z"
                 }
@@ -1199,12 +1869,21 @@
               "node_type": "item",
               "repo_info": {
                 "archived": true,
+                "description": "Caffe2 implementation of Open Neural Network Exchange (ONNX)",
+                "homepage": null,
                 "id": 102693613,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2018-03-02T07:53:14Z",
+                "open_issues": 37,
                 "owner": "onnx",
                 "repo": "onnx-caffe2",
-                "stars": 167
+                "stars": 167,
+                "topics": [
+                  "caffe2",
+                  "deep-learning",
+                  "deep-neural-networks"
+                ]
               },
               "title": "onnx-caffe2",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1222,12 +1901,29 @@
               "node_type": "item",
               "repo_info": {
                 "archived": true,
+                "description": "Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit",
+                "homepage": "https://docs.microsoft.com/cognitive-toolkit/",
                 "id": 46918116,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-03-11T07:31:35Z",
+                "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17595
+                "stars": 17595,
+                "topics": [
+                  "c-plus-plus",
+                  "c-sharp",
+                  "cntk",
+                  "cognitive-toolkit",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "distributed",
+                  "java",
+                  "machine-learning",
+                  "neural-network",
+                  "python"
+                ]
               },
               "title": "crosstalkcaffe/CaffeConverter",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1238,12 +1934,29 @@
               "node_type": "item",
               "repo_info": {
                 "archived": true,
+                "description": "Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit",
+                "homepage": "https://docs.microsoft.com/cognitive-toolkit/",
                 "id": 46918116,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-03-11T07:31:35Z",
+                "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17595
+                "stars": 17595,
+                "topics": [
+                  "c-plus-plus",
+                  "c-sharp",
+                  "cntk",
+                  "cognitive-toolkit",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "distributed",
+                  "java",
+                  "machine-learning",
+                  "neural-network",
+                  "python"
+                ]
               },
               "title": "crosstalk",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1261,12 +1974,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 31578224,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-03-27T22:49:03Z",
+                "open_issues": 5,
                 "owner": "an-kumar",
                 "repo": "caffe-theano-conversion",
-                "stars": 88
+                "stars": 88,
+                "topics": []
               },
               "title": "an-kumar/caffe-theano-conversion",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1277,12 +1995,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Convert models from Caffe to Theano format",
+                "homepage": null,
                 "id": 47257265,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2015-12-02T11:40:06Z",
+                "open_issues": 0,
                 "owner": "kencoken",
                 "repo": "caffe-model-convert",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "title": "kencoken/caffe-model-convert",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1293,12 +2016,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Convert a Caffe Model to a Theano Model",
+                "homepage": null,
                 "id": 32399587,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2015-03-30T02:20:43Z",
+                "open_issues": 1,
                 "owner": "piergiaj",
                 "repo": "caffe-to-theano",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "title": "piergiaj/caffe-to-theano",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1316,12 +2044,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": true,
+                "description": "Tools to convert Caffe models to neon's serialization format",
+                "homepage": null,
                 "id": 51257700,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-03T22:54:00Z",
+                "open_issues": 1,
                 "owner": "NervanaSystems",
                 "repo": "caffe2neon",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "title": "NervanaSystems/caffe2neon",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1339,12 +2072,34 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Gluon to PyTorch deep neural network model converter",
+                "homepage": null,
                 "id": 155423061,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-05-09T08:17:11Z",
+                "open_issues": 2,
                 "owner": "gmalivenko",
                 "repo": "gluon2pytorch",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "converter",
+                  "darknet",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "densenet",
+                  "densenet-pytorch",
+                  "dual-path-networks",
+                  "dualpath-network",
+                  "gluon",
+                  "machine-learning",
+                  "mxnet",
+                  "nasnet",
+                  "onnx",
+                  "pytorch",
+                  "pytorch-converter",
+                  "resnet"
+                ]
               },
               "title": "nerox8664/gluon2pytorch",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1355,12 +2110,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Convert resnet trained in caffe to pytorch model. (group norm resnet is provided too)",
+                "homepage": null,
                 "id": 81809190,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-06-06T01:49:25Z",
+                "open_issues": 3,
                 "owner": "ruotianluo",
                 "repo": "pytorch-resnet",
-                "stars": 229
+                "stars": 229,
+                "topics": []
               },
               "title": "ruotianluo/pytorch-resnet",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1371,12 +2131,19 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Convert torch t7 model to pytorch model and source.",
+                "homepage": null,
                 "id": 82146922,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-07-10T23:21:03Z",
+                "open_issues": 28,
                 "owner": "clcarwin",
                 "repo": "convert_torch_to_pytorch",
-                "stars": 541
+                "stars": 541,
+                "topics": [
+                  "pytorch"
+                ]
               },
               "title": "clcarwin/convert_torch_to_pytorch",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1387,12 +2154,23 @@
               "node_type": "item",
               "repo_info": {
                 "archived": true,
+                "description": "Convert trained PyTorch models to Keras, and the other way around",
+                "homepage": null,
                 "id": 95992104,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-12-25T16:34:48Z",
+                "open_issues": 10,
                 "owner": "gzuidhof",
                 "repo": "nn-transfer",
-                "stars": 224
+                "stars": 224,
+                "topics": [
+                  "converter",
+                  "deep-learning",
+                  "keras",
+                  "pytorch",
+                  "weights"
+                ]
               },
               "title": "nn-transfer",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1410,12 +2188,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Convert torch model to/from caffe model easily",
+                "homepage": null,
                 "id": 70474457,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-11-29T10:33:02Z",
+                "open_issues": 2,
                 "owner": "kuangliu",
                 "repo": "mocha",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "title": "kuangliu/mocha",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1426,12 +2209,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Load Caffe networks in Torch7",
+                "homepage": null,
                 "id": 27263705,
                 "language": "Protocol Buffer",
+                "license": "BSD-2-Clause",
                 "last_commit": "2017-07-07T11:11:57Z",
+                "open_issues": 44,
                 "owner": "szagoruyko",
                 "repo": "loadcaffe",
-                "stars": 489
+                "stars": 489,
+                "topics": []
               },
               "title": "szagoruyko/loadcaffe",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1449,12 +2237,25 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Keras - Caffe converter (both directions) with pruning demos in Keras. Originally developed as BSc thesis project @ University of Verona",
+                "homepage": null,
                 "id": 300561626,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-06-20T15:08:34Z",
+                "open_issues": 1,
                 "owner": "AlexPasqua",
                 "repo": "keras-caffe-converter",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "caffe",
+                  "caffe-keras-converter",
+                  "keras",
+                  "keras-caffe-converter",
+                  "neural-networks",
+                  "nns-converter",
+                  "tensorflow"
+                ]
               },
               "title": "AlexPasqua/keras-caffe-converter",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1465,12 +2266,22 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Caffe-to-Keras weight converter. Can also export weights as Numpy arrays for further processing.",
+                "homepage": null,
                 "id": 283231519,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2020-09-08T15:51:56Z",
+                "open_issues": 0,
                 "owner": "AlexPasqua",
                 "repo": "caffe_weight_converter",
-                "stars": 0
+                "stars": 0,
+                "topics": [
+                  "artificial-intelligence",
+                  "caffe",
+                  "keras",
+                  "neural-networks"
+                ]
               },
               "title": "AlexPasqua/caffe_weight_converter",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1481,12 +2292,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Fork of the caffe2keras converter from @MarcBS (UNMAINTAINED)",
+                "homepage": null,
                 "id": 81298050,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-01-27T19:15:16Z",
+                "open_issues": 7,
                 "owner": "qxcv",
                 "repo": "caffe2keras",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "title": "qxcv/caffe2keras",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1497,12 +2313,24 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Neural Network Tools: Converter and Analyzer. For caffe, pytorch, draknet and so on.",
+                "homepage": null,
                 "id": 75267939,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-01-31T06:49:14Z",
+                "open_issues": 16,
                 "owner": "hahnyuan",
                 "repo": "nn_tools",
-                "stars": 356
+                "stars": 356,
+                "topics": [
+                  "analyzer",
+                  "caffe",
+                  "converter",
+                  "deep-learning",
+                  "pytorch",
+                  "tensroflow"
+                ]
               },
               "title": "hahnyuan/nn_tools",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1513,12 +2341,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Keras' fork with several new functionalities. Caffe2Keras converter, multimodal layers, etc.",
+                "homepage": "https://github.com/MarcBS/keras",
                 "id": 51305150,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2020-05-03T11:01:16Z",
+                "open_issues": 20,
                 "owner": "MarcBS",
                 "repo": "keras",
-                "stars": 223
+                "stars": 223,
+                "topics": []
               },
               "title": "MarcBS/keras",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1529,12 +2362,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "a simple tool to translate caffe model to keras model",
+                "homepage": null,
                 "id": 42754912,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2015-10-26T12:30:06Z",
+                "open_issues": 0,
                 "owner": "OdinLin",
                 "repo": "caffe2keras",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "title": "OdinLin/caffe2keras",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1545,12 +2383,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 83742055,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-03-03T09:25:32Z",
+                "open_issues": 0,
                 "owner": "jamescfli",
                 "repo": "Deep_Learning_Model_Converter",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "title": "jamescfli/Deep_Learning_Model_Converter",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1561,12 +2404,23 @@
               "node_type": "item",
               "repo_info": {
                 "archived": true,
+                "description": "Convert trained PyTorch models to Keras, and the other way around",
+                "homepage": null,
                 "id": 95992104,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-12-25T16:34:48Z",
+                "open_issues": 10,
                 "owner": "gzuidhof",
                 "repo": "nn-transfer",
-                "stars": 224
+                "stars": 224,
+                "topics": [
+                  "converter",
+                  "deep-learning",
+                  "keras",
+                  "pytorch",
+                  "weights"
+                ]
               },
               "title": "nn-transfer",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1577,12 +2431,38 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch to Keras model convertor",
+                "homepage": "https://pytorch2keras.readthedocs.io/en/latest/",
                 "id": 111018128,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-08T11:42:52Z",
+                "open_issues": 62,
                 "owner": "gmalivenko",
                 "repo": "pytorch2keras",
-                "stars": 862
+                "stars": 862,
+                "topics": [
+                  "converter",
+                  "darts",
+                  "deep-learning",
+                  "deep-learning-models",
+                  "densenet",
+                  "imagenet",
+                  "keras",
+                  "keras-model-convertor",
+                  "keras-models",
+                  "keras-neural-networks",
+                  "keras-tensorflow",
+                  "machinelearning",
+                  "models-converter",
+                  "onnx",
+                  "pytorch",
+                  "pytorch-models",
+                  "resnet",
+                  "tensorflow",
+                  "tensorflow-models",
+                  "tensorflowjs"
+                ]
               },
               "title": "pytorch2keras",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1600,12 +2480,29 @@
               "node_type": "item",
               "repo_info": {
                 "archived": true,
+                "description": "Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit",
+                "homepage": "https://docs.microsoft.com/cognitive-toolkit/",
                 "id": 46918116,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-03-11T07:31:35Z",
+                "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17595
+                "stars": 17595,
+                "topics": [
+                  "c-plus-plus",
+                  "c-sharp",
+                  "cntk",
+                  "cognitive-toolkit",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "distributed",
+                  "java",
+                  "machine-learning",
+                  "neural-network",
+                  "python"
+                ]
               },
               "title": "crosstalk",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1616,12 +2513,21 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A tool for converting Keras models for use with Tensorflow",
+                "homepage": null,
                 "id": 100529691,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-06-04T08:53:56Z",
+                "open_issues": 0,
                 "owner": "triagemd",
                 "repo": "model-converters",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "keras",
+                  "machine-learning",
+                  "tensorflow"
+                ]
               },
               "title": "triagemd/model-converters: Tools for converting Keras models for use with other ML frameworks",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1632,12 +2538,24 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Neural Network Tools: Converter and Analyzer. For caffe, pytorch, draknet and so on.",
+                "homepage": null,
                 "id": 75267939,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-01-31T06:49:14Z",
+                "open_issues": 16,
                 "owner": "hahnyuan",
                 "repo": "nn_tools",
-                "stars": 356
+                "stars": 356,
+                "topics": [
+                  "analyzer",
+                  "caffe",
+                  "converter",
+                  "deep-learning",
+                  "pytorch",
+                  "tensroflow"
+                ]
               },
               "title": "hahnyuan/nn_tools",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1648,12 +2566,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Caffe models in TensorFlow",
+                "homepage": null,
                 "id": 45893011,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-07-18T13:35:38Z",
+                "open_issues": 120,
                 "owner": "ethereon",
                 "repo": "caffe-tensorflow",
-                "stars": 2786
+                "stars": 2786,
+                "topics": []
               },
               "title": "ethereon/caffe-tensorflow: Caffe models in TensorFlow",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1664,12 +2587,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Converts keras trained models to frozen tensorflow protocol buffers for use with the c++ tensorflow api",
+                "homepage": null,
                 "id": 87117248,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-09-28T19:17:48Z",
+                "open_issues": 0,
                 "owner": "goranrauker",
                 "repo": "convert-to-tensorflow",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "title": "goranrauker/convert-to-tensorflow",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1680,12 +2608,30 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices",
+                "homepage": null,
                 "id": 65791375,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-10-23T23:26:26Z",
+                "open_issues": 642,
                 "owner": "thtrieu",
                 "repo": "darkflow",
-                "stars": 6139
+                "stars": 6139,
+                "topics": [
+                  "convolutional-networks",
+                  "convolutional-neural-networks",
+                  "darknet",
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "graph",
+                  "image-processing",
+                  "machine-learning",
+                  "mobile-development",
+                  "object-detection",
+                  "real-time",
+                  "tensorflow"
+                ]
               },
               "title": "thtrieu/darkflow",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1696,12 +2642,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Tensorflow code to to retrain yolo on a new dataset using weights from darknet",
+                "homepage": null,
                 "id": 79036360,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-01-15T14:22:31Z",
+                "open_issues": 0,
                 "owner": "pierredet",
                 "repo": "lego_yolo",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "title": "dEcmir/lego_yolo",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1712,12 +2663,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Convert keras models to tensorflow frozen graph for use on cell phones, etc",
+                "homepage": null,
                 "id": 86499734,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-27T17:38:48Z",
+                "open_issues": 1,
                 "owner": "alanswx",
                 "repo": "keras_to_tensorflow",
-                "stars": 21
+                "stars": 21,
+                "topics": []
               },
               "title": "alanswx/keras_to_tensorflow",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1728,12 +2684,23 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "General code to convert a trained keras model into an inference tensorflow model",
+                "homepage": null,
                 "id": 90821710,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-11-23T20:22:56Z",
+                "open_issues": 63,
                 "owner": "amir-abdi",
                 "repo": "keras_to_tensorflow",
-                "stars": 1646
+                "stars": 1646,
+                "topics": [
+                  "deep-learning",
+                  "keras",
+                  "machine-learning",
+                  "python",
+                  "tensorflow"
+                ]
               },
               "title": "amir-abdi/keras_to_tensorflow",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1744,12 +2711,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Converting a pretrained pytorch model to tensorflow",
+                "homepage": null,
                 "id": 89765692,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2017-05-04T03:40:35Z",
+                "open_issues": 2,
                 "owner": "leonidk",
                 "repo": "pytorch-tf",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "title": "leonidk/pytorch-tf",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1760,12 +2732,38 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch to Keras model convertor",
+                "homepage": "https://pytorch2keras.readthedocs.io/en/latest/",
                 "id": 111018128,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-08T11:42:52Z",
+                "open_issues": 62,
                 "owner": "gmalivenko",
                 "repo": "pytorch2keras",
-                "stars": 862
+                "stars": 862,
+                "topics": [
+                  "converter",
+                  "darts",
+                  "deep-learning",
+                  "deep-learning-models",
+                  "densenet",
+                  "imagenet",
+                  "keras",
+                  "keras-model-convertor",
+                  "keras-models",
+                  "keras-neural-networks",
+                  "keras-tensorflow",
+                  "machinelearning",
+                  "models-converter",
+                  "onnx",
+                  "pytorch",
+                  "pytorch-models",
+                  "resnet",
+                  "tensorflow",
+                  "tensorflow-models",
+                  "tensorflowjs"
+                ]
               },
               "title": "pytorch2keras",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1776,12 +2774,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Darknet Weights to TensorFlow",
+                "homepage": null,
                 "id": 118317875,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-02-17T14:21:33Z",
+                "open_issues": 30,
                 "owner": "jinyu121",
                 "repo": "DW2TF",
-                "stars": 216
+                "stars": 216,
+                "topics": []
               },
               "title": "jinyu121/DW2TF: Darknet Weights to TensorFlow",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1792,12 +2795,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Converting a pretrained pytorch model to tensorflow",
+                "homepage": null,
                 "id": 89765692,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2017-05-04T03:40:35Z",
+                "open_issues": 2,
                 "owner": "leonidk",
                 "repo": "pytorch-tf",
-                "stars": 93
+                "stars": 93,
+                "topics": []
               },
               "title": "leonidk/pytorch-tf",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1815,12 +2823,19 @@
               "node_type": "item",
               "repo_info": {
                 "archived": true,
+                "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more",
+                "homepage": "https://mxnet.apache.org",
                 "id": 34864402,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2023-10-25T21:28:33Z",
+                "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20811
+                "stars": 20811,
+                "topics": [
+                  "mxnet"
+                ]
               },
               "title": "mxnet/tools/mxnet-to-coreml",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1831,12 +2846,25 @@
               "node_type": "item",
               "repo_info": {
                 "archived": true,
+                "description": "Torch7 -> CoreML",
+                "homepage": null,
                 "id": 100525727,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-12-04T21:37:19Z",
+                "open_issues": 13,
                 "owner": "prisma-ai",
                 "repo": "torch2coreml",
-                "stars": 384
+                "stars": 384,
+                "topics": [
+                  "ai",
+                  "coreml",
+                  "deep-learning",
+                  "ios",
+                  "ios11",
+                  "neural-style",
+                  "torch"
+                ]
               },
               "title": "prisma-ai/torch2coreml: Torch7 -> CoreML",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1847,12 +2875,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Torch7 Library - Convert NN Models To iOS Format",
+                "homepage": null,
                 "id": 63416500,
                 "language": "Objective-C",
+                "license": null,
                 "last_commit": "2016-08-08T09:49:13Z",
+                "open_issues": 0,
                 "owner": "kurtjacobsdev",
                 "repo": "torch2ios",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "title": "woffle/torch2ios: Torch7 Library - Convert NN Models To iOS Format",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1863,12 +2896,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Keras models with python-based convertor to provide embedding in IOS platform.",
+                "homepage": null,
                 "id": 95458444,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2017-07-18T09:04:09Z",
+                "open_issues": 1,
                 "owner": "Bulochkin",
                 "repo": "keras_models",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "title": "Bulochkin/keras_models: Keras models with python-based convertor to provide embedding in IOS platform",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1879,12 +2917,21 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "A tool for converting Keras models for use with Tensorflow",
+                "homepage": null,
                 "id": 100529691,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-06-04T08:53:56Z",
+                "open_issues": 0,
                 "owner": "triagemd",
                 "repo": "model-converters",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "keras",
+                  "machine-learning",
+                  "tensorflow"
+                ]
               },
               "title": "triagemd/model-converters: Tools for converting Keras models for use with other ML frameworks",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1895,12 +2942,17 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow to CoreML Converter",
+                "homepage": null,
                 "id": 106602694,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-07-01T16:48:19Z",
+                "open_issues": 65,
                 "owner": "tf-coreml",
                 "repo": "tf-coreml",
-                "stars": 1328
+                "stars": 1328,
+                "topics": []
               },
               "title": "Apple & Google: Tensorflow to CoreML converter",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1918,12 +2970,25 @@
               "node_type": "item",
               "repo_info": {
                 "archived": false,
+                "description": "Deep learning model converter for PaddlePaddle. (『飞桨』深度学习模型转换工具)",
+                "homepage": "http://www.paddlepaddle.org/",
                 "id": 164796418,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-22T02:49:23Z",
+                "open_issues": 275,
                 "owner": "PaddlePaddle",
                 "repo": "X2Paddle",
-                "stars": 773
+                "stars": 773,
+                "topics": [
+                  "caffe",
+                  "model-converter",
+                  "onnx",
+                  "paddlepaddle",
+                  "pytorch",
+                  "tensorflow",
+                  "x2paddle-model-zoo"
+                ]
               },
               "title": "PaddlePaddle/X2Paddle: X2Paddle is a toolkit for converting trained model to PaddlePaddle from other deep learning frameworks. 支持主流深度学习框架模型转换至PaddlePaddle『飞桨』",
               "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1938,15 +3003,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:47:35.756Z",
+    "last_updated": "2026-08-29T04:18:58.628Z",
     "original_repository_info": {
       "archived": false,
+      "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
+      "homepage": "https://github.com/ysh329/deep-learning-model-convertor",
       "id": 88418646,
       "language": null,
+      "license": null,
       "last_commit": "2023-06-26T14:22:18Z",
+      "open_issues": 2,
       "owner": "ysh329",
       "repo": "deep-learning-model-convertor",
-      "stars": 3236
+      "stars": 3236,
+      "topics": [
+        "awesome-list",
+        "caffe",
+        "caffe2",
+        "convertor",
+        "deep-learning",
+        "deep-learning-framework",
+        "keras",
+        "model",
+        "model-convertor",
+        "mxnet",
+        "neural-network",
+        "pytorch",
+        "tensorflow",
+        "torch"
+      ]
     },
     "original_repository_sha": "30ceb94bbd6f46cb010f00503c49c89cf07293f2",
     "enhanced_repository": "enhansome/enhansome-deep-learning-model-convertor",
