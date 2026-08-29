@@ -19,7 +19,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34557,
+            "stars": 34556,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -111,11 +111,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T15:34:09Z",
+            "last_commit": "2026-08-29T11:37:23Z",
             "open_issues": 1198,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17887,
+            "stars": 17891,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -290,7 +290,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34557,
+            "stars": 34556,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -646,11 +646,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-28T15:34:09Z",
+            "last_commit": "2026-08-29T11:37:23Z",
             "open_issues": 1198,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17887,
+            "stars": 17891,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -1275,11 +1275,11 @@
             "id": 102692863,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T03:11:52Z",
-            "open_issues": 276,
+            "last_commit": "2026-08-29T05:38:34Z",
+            "open_issues": 278,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21376,
+            "stars": 21378,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:18:58.628Z",
+    "last_updated": "2026-08-29T21:00:08.624Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
