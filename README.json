@@ -15,8 +15,9 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34556
-          }
+            "stars": 34557
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "facebookarchive",
             "repo": "caffe2",
             "stars": 8371
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Theano",
             "repo": "Theano",
             "stars": 9998
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "NervanaSystems",
             "repo": "ModelZoo",
             "stars": 176
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 73328905,
             "language": "Python",
-            "last_commit": "2026-08-27T15:12:54Z",
+            "last_commit": "2026-08-28T15:34:09Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17886
-          }
+            "stars": 17887
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "torch",
             "repo": "torch7",
             "stars": 9141
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "fchollet",
             "repo": "deep-learning-models",
             "stars": 7348
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -117,11 +124,12 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-28T01:33:46Z",
+            "last_commit": "2026-08-28T18:30:48Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656
-          }
+            "stars": 77659
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "PaddlePaddle",
             "repo": "models",
             "stars": 6932
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "microsoft",
             "repo": "MMdnn",
             "stars": 5805
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "apache",
             "repo": "mxnet",
             "stars": 20811
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -180,8 +191,9 @@
             "last_commit": "2024-07-31T23:10:28Z",
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34556
-          }
+            "stars": 34557
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "apache",
             "repo": "mxnet",
             "stars": 20811
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "microsoft",
             "repo": "MMdnn",
             "stars": 5805
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -225,8 +239,9 @@
             "last_commit": "2023-03-11T07:31:35Z",
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17594
-          }
+            "stars": 17595
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "an-kumar",
             "repo": "caffe-theano-conversion",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "NervanaSystems",
             "repo": "caffe2neon",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "AlexPasqua",
             "repo": "keras-caffe-converter",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "mdering",
             "repo": "CoreMLZoo",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "PaddlePaddle",
             "repo": "X2Paddle",
             "stars": 773
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "inisis",
             "repo": "caffe2onnx",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "facebookarchive",
             "repo": "caffe2",
             "stars": 8371
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "microsoft",
             "repo": "MMdnn",
             "stars": 5805
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "Theano",
             "repo": "Theano",
             "stars": 9998
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "NervanaSystems",
             "repo": "ModelZoo",
             "stars": 176
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -387,11 +412,12 @@
             "archived": false,
             "id": 73328905,
             "language": "Python",
-            "last_commit": "2026-08-27T15:12:54Z",
+            "last_commit": "2026-08-28T15:34:09Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17886
-          }
+            "stars": 17887
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -406,7 +432,8 @@
             "owner": "microsoft",
             "repo": "MMdnn",
             "stars": 5805
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -421,7 +448,8 @@
             "owner": "inisis",
             "repo": "brocolli",
             "stars": 343
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -436,7 +464,8 @@
             "owner": "onnx",
             "repo": "onnx-caffe2",
             "stars": 167
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -451,7 +480,8 @@
             "owner": "torch",
             "repo": "torch7",
             "stars": 9141
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -466,7 +496,8 @@
             "owner": "facebookarchive",
             "repo": "fb-caffe-exts",
             "stars": 459
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -481,7 +512,8 @@
             "owner": "ca1773130n",
             "repo": "Torch2Caffe2",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -496,7 +528,8 @@
             "owner": "clcarwin",
             "repo": "convert_torch_to_pytorch",
             "stars": 541
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -511,7 +544,8 @@
             "owner": "prisma-ai",
             "repo": "torch2coreml",
             "stars": 384
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -526,7 +560,8 @@
             "owner": "fchollet",
             "repo": "deep-learning-models",
             "stars": 7348
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -541,7 +576,8 @@
             "owner": "microsoft",
             "repo": "MMdnn",
             "stars": 5805
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -556,7 +592,8 @@
             "owner": "AlexPasqua",
             "repo": "keras-caffe-converter",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -571,7 +608,8 @@
             "owner": "hahnyuan",
             "repo": "nn_tools",
             "stars": 356
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -586,7 +624,8 @@
             "owner": "triagemd",
             "repo": "model-converters",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -601,7 +640,8 @@
             "owner": "microsoft",
             "repo": "MMdnn",
             "stars": 5805
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -616,7 +656,8 @@
             "owner": "jinyu121",
             "repo": "DW2TF",
             "stars": 216
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -627,11 +668,12 @@
             "archived": false,
             "id": 51117837,
             "language": "Python",
-            "last_commit": "2026-08-28T01:33:46Z",
+            "last_commit": "2026-08-28T18:30:48Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656
-          }
+            "stars": 77659
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -646,7 +688,8 @@
             "owner": "microsoft",
             "repo": "MMdnn",
             "stars": 5805
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -660,8 +703,9 @@
             "last_commit": "2023-03-11T07:31:35Z",
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17594
-          }
+            "stars": 17595
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -676,7 +720,8 @@
             "owner": "leonidk",
             "repo": "pytorch-tf",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -691,7 +736,8 @@
             "owner": "triagemd",
             "repo": "model-converters",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -706,7 +752,8 @@
             "owner": "tf-coreml",
             "repo": "tf-coreml",
             "stars": 1328
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -721,7 +768,8 @@
             "owner": "PaddlePaddle",
             "repo": "X2Paddle",
             "stars": 773
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -736,7 +784,8 @@
             "owner": "microsoft",
             "repo": "MMdnn",
             "stars": 5805
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -747,11 +796,12 @@
             "archived": false,
             "id": 102692863,
             "language": "Python",
-            "last_commit": "2026-08-28T00:09:43Z",
+            "last_commit": "2026-08-29T01:00:07Z",
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21373
-          }
+            "stars": 21376
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         },
         {
           "node_type": "item",
@@ -766,7 +816,8 @@
             "owner": "PaddlePaddle",
             "repo": "X2Paddle",
             "stars": 773
-          }
+          },
+          "first_seen": "2026-08-29T01:47:35.756Z"
         }
       ],
       "title": "Overview"
@@ -789,7 +840,8 @@
                 "owner": "microsoft",
                 "repo": "MMdnn",
                 "stars": 5805
-              }
+              },
+              "first_seen": "2026-08-29T01:47:35.756Z"
             }
           ],
           "description": null,
@@ -811,7 +863,8 @@
                 "repo": "CoreMLZoo",
                 "stars": 15
               },
-              "title": "mdering/CoreMLZoo: A few models converted from caffe to CoreMLs format"
+              "title": "mdering/CoreMLZoo: A few models converted from caffe to CoreMLs format",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [
@@ -828,7 +881,8 @@
                     "owner": "apache",
                     "repo": "mxnet",
                     "stars": 20811
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:47:35.756Z"
                 }
               ],
               "description": "Key topics covered include the following:",
@@ -842,7 +896,8 @@
                 "repo": "mxnet",
                 "stars": 20811
               },
-              "title": "mxnet/tools/caffe_converter"
+              "title": "mxnet/tools/caffe_converter",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -857,7 +912,8 @@
                 "repo": "ResNet_caffe2mxnet",
                 "stars": 11
               },
-              "title": "nicklhy/ResNet_caffe2mxnet"
+              "title": "nicklhy/ResNet_caffe2mxnet",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             }
           ],
           "description": "Convert to MXNet model.",
@@ -879,7 +935,8 @@
                 "repo": "keras-caffe-converter",
                 "stars": 6
               },
-              "title": "keras-caffe-converter"
+              "title": "keras-caffe-converter",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -894,7 +951,8 @@
                 "repo": "brocolli",
                 "stars": 343
               },
-              "title": "brocolli"
+              "title": "brocolli",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -909,7 +967,8 @@
                 "repo": "pytorch2caffe",
                 "stars": 538
               },
-              "title": "pytorch2caffe"
+              "title": "pytorch2caffe",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -924,7 +983,8 @@
                 "repo": "MXNet2Caffe",
                 "stars": 163
               },
-              "title": "cypw/MXNet2Caffe"
+              "title": "cypw/MXNet2Caffe",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -939,7 +999,8 @@
                 "repo": "Mxnet2Caffe",
                 "stars": 3
               },
-              "title": "wranglerwong/Mxnet2Caffe: Convert MXNet model to Caffe model"
+              "title": "wranglerwong/Mxnet2Caffe: Convert MXNet model to Caffe model",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -954,7 +1015,8 @@
                 "repo": "mocha",
                 "stars": 12
               },
-              "title": "kuangliu/mocha"
+              "title": "kuangliu/mocha",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [
@@ -971,7 +1033,8 @@
                     "owner": "kentsommer",
                     "repo": "keras-inceptionV4",
                     "stars": 467
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:47:35.756Z"
                 },
                 {
                   "node_type": "item",
@@ -986,7 +1049,8 @@
                     "owner": "rcmalli",
                     "repo": "keras-squeezenet",
                     "stars": 405
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:47:35.756Z"
                 }
               ],
               "description": "This tool tested with Caffe 1.0, Keras 2.1.2 and TensorFlow 1.4.0\nWorking conversion examples:\nProblem layers:",
@@ -1000,7 +1064,8 @@
                 "repo": "keras2caffe",
                 "stars": 67
               },
-              "title": "uhfband/keras2caffe: Keras to Caffe model converter tool"
+              "title": "uhfband/keras2caffe: Keras to Caffe model converter tool",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1015,7 +1080,8 @@
                 "repo": "fb-caffe-exts",
                 "stars": 459
               },
-              "title": "facebook/fb-caffe-exts/torch2caffe"
+              "title": "facebook/fb-caffe-exts/torch2caffe",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1030,7 +1096,8 @@
                 "repo": "trans-torch",
                 "stars": 22
               },
-              "title": "Teaonly/trans-torch"
+              "title": "Teaonly/trans-torch",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1045,7 +1112,8 @@
                 "repo": "th2caffe",
                 "stars": 15
               },
-              "title": "e-lab/th2caffe"
+              "title": "e-lab/th2caffe",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1060,7 +1128,8 @@
                 "repo": "nn_tools",
                 "stars": 356
               },
-              "title": "hahnyuan/nn_tools"
+              "title": "hahnyuan/nn_tools",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1075,7 +1144,8 @@
                 "repo": "PytorchToCaffe",
                 "stars": 778
               },
-              "title": "xxradon/PytorchToCaffe: Pytorch model to caffe model, supported pytorch 0.3, 0.3.1, 0.4, 0.4.1 ,1.0 , 1.0.1 , 1.2 ,1.3 .notice that only pytorch 1.1 have some bugs"
+              "title": "xxradon/PytorchToCaffe: Pytorch model to caffe model, supported pytorch 0.3, 0.3.1, 0.4, 0.4.1 ,1.0 , 1.0.1 , 1.2 ,1.3 .notice that only pytorch 1.1 have some bugs",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             }
           ],
           "description": "Convert to Caffe model.",
@@ -1099,7 +1169,8 @@
                     "owner": "facebookarchive",
                     "repo": "caffe2",
                     "stars": 8371
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:47:35.756Z"
                 },
                 {
                   "node_type": "item",
@@ -1114,7 +1185,8 @@
                     "owner": "facebookarchive",
                     "repo": "caffe2",
                     "stars": 8371
-                  }
+                  },
+                  "first_seen": "2026-08-29T01:47:35.756Z"
                 }
               ],
               "description": "This is an official convertor, which not only provoide a script also an ipython notebook as below:",
@@ -1134,7 +1206,8 @@
                 "repo": "onnx-caffe2",
                 "stars": 167
               },
-              "title": "onnx-caffe2"
+              "title": "onnx-caffe2",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             }
           ],
           "description": "Convert to Caffe2 model.",
@@ -1154,9 +1227,10 @@
                 "last_commit": "2023-03-11T07:31:35Z",
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17594
+                "stars": 17595
               },
-              "title": "crosstalkcaffe/CaffeConverter"
+              "title": "crosstalkcaffe/CaffeConverter",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1169,9 +1243,10 @@
                 "last_commit": "2023-03-11T07:31:35Z",
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17594
+                "stars": 17595
               },
-              "title": "crosstalk"
+              "title": "crosstalk",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             }
           ],
           "description": "Convert to CNTK model.",
@@ -1193,7 +1268,8 @@
                 "repo": "caffe-theano-conversion",
                 "stars": 88
               },
-              "title": "an-kumar/caffe-theano-conversion"
+              "title": "an-kumar/caffe-theano-conversion",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1208,7 +1284,8 @@
                 "repo": "caffe-model-convert",
                 "stars": 2
               },
-              "title": "kencoken/caffe-model-convert"
+              "title": "kencoken/caffe-model-convert",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1223,7 +1300,8 @@
                 "repo": "caffe-to-theano",
                 "stars": 11
               },
-              "title": "piergiaj/caffe-to-theano"
+              "title": "piergiaj/caffe-to-theano",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             }
           ],
           "description": "Convert to Theano/Lasagne model.",
@@ -1245,7 +1323,8 @@
                 "repo": "caffe2neon",
                 "stars": 38
               },
-              "title": "NervanaSystems/caffe2neon"
+              "title": "NervanaSystems/caffe2neon",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             }
           ],
           "description": "Convert to Neon model.",
@@ -1267,7 +1346,8 @@
                 "repo": "gluon2pytorch",
                 "stars": 73
               },
-              "title": "nerox8664/gluon2pytorch"
+              "title": "nerox8664/gluon2pytorch",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1282,7 +1362,8 @@
                 "repo": "pytorch-resnet",
                 "stars": 229
               },
-              "title": "ruotianluo/pytorch-resnet"
+              "title": "ruotianluo/pytorch-resnet",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1297,7 +1378,8 @@
                 "repo": "convert_torch_to_pytorch",
                 "stars": 541
               },
-              "title": "clcarwin/convert_torch_to_pytorch"
+              "title": "clcarwin/convert_torch_to_pytorch",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1312,7 +1394,8 @@
                 "repo": "nn-transfer",
                 "stars": 224
               },
-              "title": "nn-transfer"
+              "title": "nn-transfer",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             }
           ],
           "description": "Convert to PyTorch model.",
@@ -1334,7 +1417,8 @@
                 "repo": "mocha",
                 "stars": 12
               },
-              "title": "kuangliu/mocha"
+              "title": "kuangliu/mocha",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1349,7 +1433,8 @@
                 "repo": "loadcaffe",
                 "stars": 489
               },
-              "title": "szagoruyko/loadcaffe"
+              "title": "szagoruyko/loadcaffe",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             }
           ],
           "description": "Convert to Torch model.",
@@ -1371,7 +1456,8 @@
                 "repo": "keras-caffe-converter",
                 "stars": 6
               },
-              "title": "AlexPasqua/keras-caffe-converter"
+              "title": "AlexPasqua/keras-caffe-converter",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1386,7 +1472,8 @@
                 "repo": "caffe_weight_converter",
                 "stars": 0
               },
-              "title": "AlexPasqua/caffe_weight_converter"
+              "title": "AlexPasqua/caffe_weight_converter",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1401,7 +1488,8 @@
                 "repo": "caffe2keras",
                 "stars": 17
               },
-              "title": "qxcv/caffe2keras"
+              "title": "qxcv/caffe2keras",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1416,7 +1504,8 @@
                 "repo": "nn_tools",
                 "stars": 356
               },
-              "title": "hahnyuan/nn_tools"
+              "title": "hahnyuan/nn_tools",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1431,7 +1520,8 @@
                 "repo": "keras",
                 "stars": 223
               },
-              "title": "MarcBS/keras"
+              "title": "MarcBS/keras",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1446,7 +1536,8 @@
                 "repo": "caffe2keras",
                 "stars": 10
               },
-              "title": "OdinLin/caffe2keras"
+              "title": "OdinLin/caffe2keras",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1461,7 +1552,8 @@
                 "repo": "Deep_Learning_Model_Converter",
                 "stars": 2
               },
-              "title": "jamescfli/Deep_Learning_Model_Converter"
+              "title": "jamescfli/Deep_Learning_Model_Converter",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1476,7 +1568,8 @@
                 "repo": "nn-transfer",
                 "stars": 224
               },
-              "title": "nn-transfer"
+              "title": "nn-transfer",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1491,7 +1584,8 @@
                 "repo": "pytorch2keras",
                 "stars": 862
               },
-              "title": "pytorch2keras"
+              "title": "pytorch2keras",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             }
           ],
           "description": "Convert to Keras model.",
@@ -1511,9 +1605,10 @@
                 "last_commit": "2023-03-11T07:31:35Z",
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17594
+                "stars": 17595
               },
-              "title": "crosstalk"
+              "title": "crosstalk",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1528,7 +1623,8 @@
                 "repo": "model-converters",
                 "stars": 7
               },
-              "title": "triagemd/model-converters: Tools for converting Keras models for use with other ML frameworks"
+              "title": "triagemd/model-converters: Tools for converting Keras models for use with other ML frameworks",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1543,7 +1639,8 @@
                 "repo": "nn_tools",
                 "stars": 356
               },
-              "title": "hahnyuan/nn_tools"
+              "title": "hahnyuan/nn_tools",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1558,7 +1655,8 @@
                 "repo": "caffe-tensorflow",
                 "stars": 2786
               },
-              "title": "ethereon/caffe-tensorflow: Caffe models in TensorFlow"
+              "title": "ethereon/caffe-tensorflow: Caffe models in TensorFlow",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1573,7 +1671,8 @@
                 "repo": "convert-to-tensorflow",
                 "stars": 10
               },
-              "title": "goranrauker/convert-to-tensorflow"
+              "title": "goranrauker/convert-to-tensorflow",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1588,7 +1687,8 @@
                 "repo": "darkflow",
                 "stars": 6139
               },
-              "title": "thtrieu/darkflow"
+              "title": "thtrieu/darkflow",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1603,7 +1703,8 @@
                 "repo": "lego_yolo",
                 "stars": 8
               },
-              "title": "dEcmir/lego_yolo"
+              "title": "dEcmir/lego_yolo",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1618,7 +1719,8 @@
                 "repo": "keras_to_tensorflow",
                 "stars": 21
               },
-              "title": "alanswx/keras_to_tensorflow"
+              "title": "alanswx/keras_to_tensorflow",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1633,7 +1735,8 @@
                 "repo": "keras_to_tensorflow",
                 "stars": 1646
               },
-              "title": "amir-abdi/keras_to_tensorflow"
+              "title": "amir-abdi/keras_to_tensorflow",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1648,7 +1751,8 @@
                 "repo": "pytorch-tf",
                 "stars": 93
               },
-              "title": "leonidk/pytorch-tf"
+              "title": "leonidk/pytorch-tf",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1663,7 +1767,8 @@
                 "repo": "pytorch2keras",
                 "stars": 862
               },
-              "title": "pytorch2keras"
+              "title": "pytorch2keras",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1678,7 +1783,8 @@
                 "repo": "DW2TF",
                 "stars": 216
               },
-              "title": "jinyu121/DW2TF: Darknet Weights to TensorFlow"
+              "title": "jinyu121/DW2TF: Darknet Weights to TensorFlow",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1693,7 +1799,8 @@
                 "repo": "pytorch-tf",
                 "stars": 93
               },
-              "title": "leonidk/pytorch-tf"
+              "title": "leonidk/pytorch-tf",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             }
           ],
           "description": "Convert to TensorFlow model.",
@@ -1715,7 +1822,8 @@
                 "repo": "mxnet",
                 "stars": 20811
               },
-              "title": "mxnet/tools/mxnet-to-coreml"
+              "title": "mxnet/tools/mxnet-to-coreml",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1730,7 +1838,8 @@
                 "repo": "torch2coreml",
                 "stars": 384
               },
-              "title": "prisma-ai/torch2coreml: Torch7 -> CoreML"
+              "title": "prisma-ai/torch2coreml: Torch7 -> CoreML",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1745,7 +1854,8 @@
                 "repo": "torch2ios",
                 "stars": 11
               },
-              "title": "woffle/torch2ios: Torch7 Library - Convert NN Models To iOS Format"
+              "title": "woffle/torch2ios: Torch7 Library - Convert NN Models To iOS Format",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1760,7 +1870,8 @@
                 "repo": "keras_models",
                 "stars": 1
               },
-              "title": "Bulochkin/keras_models: Keras models with python-based convertor to provide embedding in IOS platform"
+              "title": "Bulochkin/keras_models: Keras models with python-based convertor to provide embedding in IOS platform",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1775,7 +1886,8 @@
                 "repo": "model-converters",
                 "stars": 7
               },
-              "title": "triagemd/model-converters: Tools for converting Keras models for use with other ML frameworks"
+              "title": "triagemd/model-converters: Tools for converting Keras models for use with other ML frameworks",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             },
             {
               "children": [],
@@ -1790,7 +1902,8 @@
                 "repo": "tf-coreml",
                 "stars": 1328
               },
-              "title": "Apple & Google: Tensorflow to CoreML converter"
+              "title": "Apple & Google: Tensorflow to CoreML converter",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             }
           ],
           "description": "Convert to coreML model.",
@@ -1812,7 +1925,8 @@
                 "repo": "X2Paddle",
                 "stars": 773
               },
-              "title": "PaddlePaddle/X2Paddle: X2Paddle is a toolkit for converting trained model to PaddlePaddle from other deep learning frameworks. 支持主流深度学习框架模型转换至PaddlePaddle『飞桨』"
+              "title": "PaddlePaddle/X2Paddle: X2Paddle is a toolkit for converting trained model to PaddlePaddle from other deep learning frameworks. 支持主流深度学习框架模型转换至PaddlePaddle『飞桨』",
+              "first_seen": "2026-08-29T01:47:35.756Z"
             }
           ],
           "description": "Convert to Paddle model.",
@@ -1824,7 +1938,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:12:58.440Z",
+    "last_updated": "2026-08-29T01:47:35.756Z",
     "original_repository_info": {
       "archived": false,
       "id": 88418646,
