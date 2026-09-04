@@ -44,7 +44,7 @@
             "open_issues": 580,
             "owner": "facebookarchive",
             "repo": "caffe2",
-            "stars": 8371,
+            "stars": 8370,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -111,11 +111,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-03T11:37:37Z",
-            "open_issues": 1204,
+            "last_commit": "2026-09-04T11:37:05Z",
+            "open_issues": 1205,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17898,
+            "stars": 17897,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -136,7 +136,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2025-03-31T20:16:24Z",
-            "open_issues": 298,
+            "open_issues": 299,
             "owner": "torch",
             "repo": "torch7",
             "stars": 9141,
@@ -160,7 +160,7 @@
             "open_issues": 88,
             "owner": "fchollet",
             "repo": "deep-learning-models",
-            "stars": 7349,
+            "stars": 7350,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -177,11 +177,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T21:07:52Z",
+            "last_commit": "2026-09-03T23:11:37Z",
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660,
+            "stars": 77661,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -496,7 +496,7 @@
             "open_issues": 275,
             "owner": "PaddlePaddle",
             "repo": "X2Paddle",
-            "stars": 773,
+            "stars": 772,
             "topics": [
               "caffe",
               "model-converter",
@@ -546,7 +546,7 @@
             "open_issues": 580,
             "owner": "facebookarchive",
             "repo": "caffe2",
-            "stars": 8371,
+            "stars": 8370,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -646,11 +646,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-03T11:37:37Z",
-            "open_issues": 1204,
+            "last_commit": "2026-09-04T11:37:05Z",
+            "open_issues": 1205,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17898,
+            "stars": 17897,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -755,7 +755,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2025-03-31T20:16:24Z",
-            "open_issues": 298,
+            "open_issues": 299,
             "owner": "torch",
             "repo": "torch7",
             "stars": 9141,
@@ -873,7 +873,7 @@
             "open_issues": 88,
             "owner": "fchollet",
             "repo": "deep-learning-models",
-            "stars": 7349,
+            "stars": 7350,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1059,11 +1059,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T21:07:52Z",
+            "last_commit": "2026-09-03T23:11:37Z",
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660,
+            "stars": 77661,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1217,7 +1217,7 @@
             "open_issues": 275,
             "owner": "PaddlePaddle",
             "repo": "X2Paddle",
-            "stars": 773,
+            "stars": 772,
             "topics": [
               "caffe",
               "model-converter",
@@ -1275,11 +1275,11 @@
             "id": 102692863,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T18:50:10Z",
-            "open_issues": 232,
+            "last_commit": "2026-09-04T14:21:41Z",
+            "open_issues": 229,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21409,
+            "stars": 21413,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1314,7 +1314,7 @@
             "open_issues": 275,
             "owner": "PaddlePaddle",
             "repo": "X2Paddle",
-            "stars": 773,
+            "stars": 772,
             "topics": [
               "caffe",
               "model-converter",
@@ -1816,7 +1816,7 @@
                     "open_issues": 580,
                     "owner": "facebookarchive",
                     "repo": "caffe2",
-                    "stars": 8371,
+                    "stars": 8370,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -1845,7 +1845,7 @@
                     "open_issues": 580,
                     "owner": "facebookarchive",
                     "repo": "caffe2",
-                    "stars": 8371,
+                    "stars": 8370,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -2979,7 +2979,7 @@
                 "open_issues": 275,
                 "owner": "PaddlePaddle",
                 "repo": "X2Paddle",
-                "stars": 773,
+                "stars": 772,
                 "topics": [
                   "caffe",
                   "model-converter",
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:08:19.626Z",
+    "last_updated": "2026-09-04T20:50:54.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
