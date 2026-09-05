@@ -19,7 +19,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34553,
+            "stars": 34552,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -44,7 +44,7 @@
             "open_issues": 580,
             "owner": "facebookarchive",
             "repo": "caffe2",
-            "stars": 8370,
+            "stars": 8369,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -73,7 +73,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 9998,
+            "stars": 9999,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -111,11 +111,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-04T11:37:05Z",
-            "open_issues": 1205,
+            "last_commit": "2026-09-05T11:37:16Z",
+            "open_issues": 1217,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17897,
+            "stars": 17899,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -177,11 +177,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T23:11:37Z",
+            "last_commit": "2026-09-05T00:14:58Z",
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77661,
+            "stars": 77659,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -290,7 +290,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34553,
+            "stars": 34552,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -546,7 +546,7 @@
             "open_issues": 580,
             "owner": "facebookarchive",
             "repo": "caffe2",
-            "stars": 8370,
+            "stars": 8369,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -608,7 +608,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 9998,
+            "stars": 9999,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -646,11 +646,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-04T11:37:05Z",
-            "open_issues": 1205,
+            "last_commit": "2026-09-05T11:37:16Z",
+            "open_issues": 1217,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17897,
+            "stars": 17899,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -1059,11 +1059,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T23:11:37Z",
+            "last_commit": "2026-09-05T00:14:58Z",
             "open_issues": 1273,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77661,
+            "stars": 77659,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1275,11 +1275,11 @@
             "id": 102692863,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T14:21:41Z",
-            "open_issues": 229,
+            "last_commit": "2026-09-05T07:49:49Z",
+            "open_issues": 228,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21413,
+            "stars": 21416,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1816,7 +1816,7 @@
                     "open_issues": 580,
                     "owner": "facebookarchive",
                     "repo": "caffe2",
-                    "stars": 8370,
+                    "stars": 8369,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -1845,7 +1845,7 @@
                     "open_issues": 580,
                     "owner": "facebookarchive",
                     "repo": "caffe2",
-                    "stars": 8370,
+                    "stars": 8369,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -2693,7 +2693,7 @@
                 "open_issues": 63,
                 "owner": "amir-abdi",
                 "repo": "keras_to_tensorflow",
-                "stars": 1646,
+                "stars": 1645,
                 "topics": [
                   "deep-learning",
                   "keras",
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T20:50:54.124Z",
+    "last_updated": "2026-09-05T20:29:04.197Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
