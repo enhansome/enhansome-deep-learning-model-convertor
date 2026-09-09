@@ -111,11 +111,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-08T19:51:05Z",
-            "open_issues": 1220,
+            "last_commit": "2026-09-09T20:00:43Z",
+            "open_issues": 1221,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17900,
+            "stars": 17901,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -177,11 +177,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T00:14:58Z",
+            "last_commit": "2026-09-09T03:15:30Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77658,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -202,7 +202,7 @@
             "open_issues": 870,
             "owner": "PaddlePaddle",
             "repo": "models",
-            "stars": 6930,
+            "stars": 6929,
             "topics": [
               "computer-vision",
               "cv",
@@ -234,7 +234,7 @@
             "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5803,
+            "stars": 5802,
             "topics": [
               "caffe",
               "cntk",
@@ -338,7 +338,7 @@
             "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5803,
+            "stars": 5802,
             "topics": [
               "caffe",
               "cntk",
@@ -575,7 +575,7 @@
             "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5803,
+            "stars": 5802,
             "topics": [
               "caffe",
               "cntk",
@@ -646,11 +646,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-08T19:51:05Z",
-            "open_issues": 1220,
+            "last_commit": "2026-09-09T20:00:43Z",
+            "open_issues": 1221,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17900,
+            "stars": 17901,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -674,7 +674,7 @@
             "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5803,
+            "stars": 5802,
             "topics": [
               "caffe",
               "cntk",
@@ -894,7 +894,7 @@
             "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5803,
+            "stars": 5802,
             "topics": [
               "caffe",
               "cntk",
@@ -1009,7 +1009,7 @@
             "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5803,
+            "stars": 5802,
             "topics": [
               "caffe",
               "cntk",
@@ -1059,11 +1059,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T00:14:58Z",
+            "last_commit": "2026-09-09T03:15:30Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77658,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1084,7 +1084,7 @@
             "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5803,
+            "stars": 5802,
             "topics": [
               "caffe",
               "cntk",
@@ -1246,7 +1246,7 @@
             "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5803,
+            "stars": 5802,
             "topics": [
               "caffe",
               "cntk",
@@ -1275,11 +1275,11 @@
             "id": 102692863,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T16:19:03Z",
-            "open_issues": 237,
+            "last_commit": "2026-09-09T14:40:35Z",
+            "open_issues": 242,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21429,
+            "stars": 21453,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1351,7 +1351,7 @@
                 "open_issues": 337,
                 "owner": "microsoft",
                 "repo": "MMdnn",
-                "stars": 5803,
+                "stars": 5802,
                 "topics": [
                   "caffe",
                   "cntk",
@@ -2614,7 +2614,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2023-10-23T23:26:26Z",
-                "open_issues": 642,
+                "open_issues": 641,
                 "owner": "thtrieu",
                 "repo": "darkflow",
                 "stars": 6139,
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T21:15:41.394Z",
+    "last_updated": "2026-09-09T21:00:57.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
@@ -3015,7 +3015,7 @@
       "open_issues": 2,
       "owner": "ysh329",
       "repo": "deep-learning-model-convertor",
-      "stars": 3236,
+      "stars": 3235,
       "topics": [
         "awesome-list",
         "caffe",
