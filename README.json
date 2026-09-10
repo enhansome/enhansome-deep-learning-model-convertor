@@ -19,7 +19,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34550,
+            "stars": 34551,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -115,7 +115,7 @@
             "open_issues": 1221,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17901,
+            "stars": 17904,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -177,11 +177,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T03:15:30Z",
+            "last_commit": "2026-09-10T20:22:01Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77658,
+            "stars": 77659,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -267,7 +267,7 @@
             "open_issues": 2007,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20808,
+            "stars": 20809,
             "topics": [
               "mxnet"
             ]
@@ -290,7 +290,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34550,
+            "stars": 34551,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -315,7 +315,7 @@
             "open_issues": 2007,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20808,
+            "stars": 20809,
             "topics": [
               "mxnet"
             ]
@@ -650,7 +650,7 @@
             "open_issues": 1221,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17901,
+            "stars": 17904,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -1059,11 +1059,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T03:15:30Z",
+            "last_commit": "2026-09-10T20:22:01Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77658,
+            "stars": 77659,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1276,10 +1276,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-09T14:40:35Z",
-            "open_issues": 242,
+            "open_issues": 245,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21453,
+            "stars": 21466,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1414,7 +1414,7 @@
                     "open_issues": 2007,
                     "owner": "apache",
                     "repo": "mxnet",
-                    "stars": 20808,
+                    "stars": 20809,
                     "topics": [
                       "mxnet"
                     ]
@@ -1435,7 +1435,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20808,
+                "stars": 20809,
                 "topics": [
                   "mxnet"
                 ]
@@ -2832,7 +2832,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20808,
+                "stars": 20809,
                 "topics": [
                   "mxnet"
                 ]
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T21:00:57.697Z",
+    "last_updated": "2026-09-10T20:58:21.247Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
