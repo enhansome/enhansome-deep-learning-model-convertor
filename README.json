@@ -19,7 +19,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34552,
+            "stars": 34553,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -115,7 +115,7 @@
             "open_issues": 1223,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17906,
+            "stars": 17905,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -139,7 +139,7 @@
             "open_issues": 299,
             "owner": "torch",
             "repo": "torch7",
-            "stars": 9141,
+            "stars": 9140,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -181,7 +181,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660,
+            "stars": 77661,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -234,7 +234,7 @@
             "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5802,
+            "stars": 5803,
             "topics": [
               "caffe",
               "cntk",
@@ -290,7 +290,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34552,
+            "stars": 34553,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -338,7 +338,7 @@
             "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5802,
+            "stars": 5803,
             "topics": [
               "caffe",
               "cntk",
@@ -371,7 +371,7 @@
             "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17592,
+            "stars": 17591,
             "topics": [
               "c-plus-plus",
               "c-sharp",
@@ -575,7 +575,7 @@
             "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5802,
+            "stars": 5803,
             "topics": [
               "caffe",
               "cntk",
@@ -650,7 +650,7 @@
             "open_issues": 1223,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17906,
+            "stars": 17905,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -674,7 +674,7 @@
             "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5802,
+            "stars": 5803,
             "topics": [
               "caffe",
               "cntk",
@@ -758,7 +758,7 @@
             "open_issues": 299,
             "owner": "torch",
             "repo": "torch7",
-            "stars": 9141,
+            "stars": 9140,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -894,7 +894,7 @@
             "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5802,
+            "stars": 5803,
             "topics": [
               "caffe",
               "cntk",
@@ -1009,7 +1009,7 @@
             "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5802,
+            "stars": 5803,
             "topics": [
               "caffe",
               "cntk",
@@ -1063,7 +1063,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77660,
+            "stars": 77661,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1084,7 +1084,7 @@
             "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5802,
+            "stars": 5803,
             "topics": [
               "caffe",
               "cntk",
@@ -1117,7 +1117,7 @@
             "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17592,
+            "stars": 17591,
             "topics": [
               "c-plus-plus",
               "c-sharp",
@@ -1246,7 +1246,7 @@
             "open_issues": 337,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5802,
+            "stars": 5803,
             "topics": [
               "caffe",
               "cntk",
@@ -1275,11 +1275,11 @@
             "id": 102692863,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T14:40:35Z",
+            "last_commit": "2026-09-12T17:51:09Z",
             "open_issues": 246,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21473,
+            "stars": 21478,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1351,7 +1351,7 @@
                 "open_issues": 337,
                 "owner": "microsoft",
                 "repo": "MMdnn",
-                "stars": 5802,
+                "stars": 5803,
                 "topics": [
                   "caffe",
                   "cntk",
@@ -1910,7 +1910,7 @@
                 "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17592,
+                "stars": 17591,
                 "topics": [
                   "c-plus-plus",
                   "c-sharp",
@@ -1943,7 +1943,7 @@
                 "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17592,
+                "stars": 17591,
                 "topics": [
                   "c-plus-plus",
                   "c-sharp",
@@ -2489,7 +2489,7 @@
                 "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17592,
+                "stars": 17591,
                 "topics": [
                   "c-plus-plus",
                   "c-sharp",
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T21:03:50.964Z",
+    "last_updated": "2026-09-12T20:40:06.809Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
