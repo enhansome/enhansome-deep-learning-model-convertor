@@ -111,11 +111,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-17T11:38:06Z",
+            "last_commit": "2026-09-18T11:37:05Z",
             "open_issues": 1222,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17917,
+            "stars": 17915,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -178,10 +178,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-16T18:51:07Z",
-            "open_issues": 1274,
+            "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77654,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -646,11 +646,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-17T11:38:06Z",
+            "last_commit": "2026-09-18T11:37:05Z",
             "open_issues": 1222,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17917,
+            "stars": 17915,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -1060,10 +1060,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-09-16T18:51:07Z",
-            "open_issues": 1274,
+            "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77654,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1275,11 +1275,11 @@
             "id": 102692863,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T11:22:49Z",
-            "open_issues": 237,
+            "last_commit": "2026-09-18T18:39:36Z",
+            "open_issues": 239,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21501,
+            "stars": 21500,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T21:30:34.875Z",
+    "last_updated": "2026-09-18T20:59:53.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
