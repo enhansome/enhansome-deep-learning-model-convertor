@@ -31,7 +31,7 @@
         {
           "node_type": "item",
           "title": "caffe2",
-          "description": null,
+          "description": "facebookarchive/caffe2",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -81,7 +81,7 @@
         {
           "node_type": "item",
           "title": "neon",
-          "description": null,
+          "description": "NervanaSystems/ModelZoo",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -126,7 +126,7 @@
         {
           "node_type": "item",
           "title": "torch",
-          "description": null,
+          "description": "torch/torch7",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -178,7 +178,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T16:19:37Z",
-            "open_issues": 1272,
+            "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77653,
@@ -189,7 +189,7 @@
         {
           "node_type": "item",
           "title": "paddle",
-          "description": null,
+          "description": "PaddlePaddle/models",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -412,7 +412,7 @@
         {
           "node_type": "item",
           "title": "caffe2neon",
-          "description": null,
+          "description": "NervanaSystems/caffe2neon",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -483,7 +483,7 @@
         {
           "node_type": "item",
           "title": "X2Paddle",
-          "description": null,
+          "description": "PaddlePaddle/X2Paddle",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -512,7 +512,7 @@
         {
           "node_type": "item",
           "title": "caffe2onnx",
-          "description": null,
+          "description": "inisis/caffe2onnx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -661,7 +661,7 @@
         {
           "node_type": "item",
           "title": "MMdnn",
-          "description": null,
+          "description": "microsoft/MMdnn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -745,7 +745,7 @@
         {
           "node_type": "item",
           "title": "torch",
-          "description": null,
+          "description": "torch/torch7",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -787,7 +787,7 @@
         {
           "node_type": "item",
           "title": "Torch2Caffe2",
-          "description": null,
+          "description": "ca1773130n/Torch2Caffe2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -808,7 +808,7 @@
         {
           "node_type": "item",
           "title": "convert_torch_to_pytorch",
-          "description": null,
+          "description": "clcarwin/convert_torch_to_pytorch",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -881,7 +881,7 @@
         {
           "node_type": "item",
           "title": "MMdnn",
-          "description": null,
+          "description": "microsoft/MMdnn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -996,7 +996,7 @@
         {
           "node_type": "item",
           "title": "MMdnn",
-          "description": null,
+          "description": "microsoft/MMdnn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1060,7 +1060,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T16:19:37Z",
-            "open_issues": 1272,
+            "open_issues": 1271,
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77653,
@@ -1071,7 +1071,7 @@
         {
           "node_type": "item",
           "title": "MMdnn",
-          "description": null,
+          "description": "microsoft/MMdnn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1204,7 +1204,7 @@
         {
           "node_type": "item",
           "title": "X2Paddle",
-          "description": null,
+          "description": "PaddlePaddle/X2Paddle",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1266,7 +1266,7 @@
         {
           "node_type": "item",
           "title": "ONNX",
-          "description": null,
+          "description": "onnx/onnx",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1279,7 +1279,7 @@
             "open_issues": 242,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21557,
+            "stars": 21558,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1301,7 +1301,7 @@
         {
           "node_type": "item",
           "title": "X2Paddle",
-          "description": null,
+          "description": "PaddlePaddle/X2Paddle",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1615,7 +1615,7 @@
                 {
                   "node_type": "item",
                   "title": "Inception V4 (https://github.com/kentsommer/keras-inceptionV4",
-                  "description": ")",
+                  "description": "kentsommer/keras-inceptionV4",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1636,7 +1636,7 @@
                 {
                   "node_type": "item",
                   "title": "SqueezeNet (https://github.com/rcmalli/keras-squeezenet",
-                  "description": ")",
+                  "description": "rcmalli/keras-squeezenet",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1803,7 +1803,7 @@
                 {
                   "node_type": "item",
                   "title": "caffe2/Getting_Caffe1_Models_for_Translation.ipynb at master · caffe2/caffe2",
-                  "description": null,
+                  "description": "facebookarchive/caffe2",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -1832,7 +1832,7 @@
                 {
                   "node_type": "item",
                   "title": "caffe2/caffe_translator.py at master · caffe2/caffe2",
-                  "description": null,
+                  "description": "facebookarchive/caffe2",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:21:22.299Z",
+    "last_updated": "2026-10-03T04:41:41.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
