@@ -19,7 +19,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34551,
+            "stars": 34552,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -44,7 +44,7 @@
             "open_issues": 580,
             "owner": "facebookarchive",
             "repo": "caffe2",
-            "stars": 8370,
+            "stars": 8369,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -111,11 +111,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-04T13:27:32Z",
-            "open_issues": 1233,
+            "last_commit": "2026-10-05T11:42:05Z",
+            "open_issues": 1232,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17940,
+            "stars": 17942,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -178,10 +178,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T16:19:37Z",
-            "open_issues": 1271,
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77657,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -267,7 +267,7 @@
             "open_issues": 2007,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20805,
+            "stars": 20804,
             "topics": [
               "mxnet"
             ]
@@ -290,7 +290,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34551,
+            "stars": 34552,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -315,7 +315,7 @@
             "open_issues": 2007,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20805,
+            "stars": 20804,
             "topics": [
               "mxnet"
             ]
@@ -546,7 +546,7 @@
             "open_issues": 580,
             "owner": "facebookarchive",
             "repo": "caffe2",
-            "stars": 8370,
+            "stars": 8369,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -646,11 +646,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-04T13:27:32Z",
-            "open_issues": 1233,
+            "last_commit": "2026-10-05T11:42:05Z",
+            "open_issues": 1232,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17940,
+            "stars": 17942,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -1060,10 +1060,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-01T16:19:37Z",
-            "open_issues": 1271,
+            "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77657,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1275,11 +1275,11 @@
             "id": 102692863,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T19:03:27Z",
-            "open_issues": 249,
+            "last_commit": "2026-10-05T23:03:09Z",
+            "open_issues": 252,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21557,
+            "stars": 21558,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1414,7 +1414,7 @@
                     "open_issues": 2007,
                     "owner": "apache",
                     "repo": "mxnet",
-                    "stars": 20805,
+                    "stars": 20804,
                     "topics": [
                       "mxnet"
                     ]
@@ -1435,7 +1435,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20805,
+                "stars": 20804,
                 "topics": [
                   "mxnet"
                 ]
@@ -1816,7 +1816,7 @@
                     "open_issues": 580,
                     "owner": "facebookarchive",
                     "repo": "caffe2",
-                    "stars": 8370,
+                    "stars": 8369,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -1845,7 +1845,7 @@
                     "open_issues": 580,
                     "owner": "facebookarchive",
                     "repo": "caffe2",
-                    "stars": 8370,
+                    "stars": 8369,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -2832,7 +2832,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20805,
+                "stars": 20804,
                 "topics": [
                   "mxnet"
                 ]
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T21:38:50.156Z",
+    "last_updated": "2026-10-06T00:09:44.281Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
