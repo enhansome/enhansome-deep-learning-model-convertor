@@ -19,7 +19,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34551,
+            "stars": 34549,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -111,8 +111,8 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-06T11:50:53Z",
-            "open_issues": 1236,
+            "last_commit": "2026-10-07T15:26:55Z",
+            "open_issues": 1235,
             "owner": "pytorch",
             "repo": "vision",
             "stars": 17943,
@@ -160,7 +160,7 @@
             "open_issues": 88,
             "owner": "fchollet",
             "repo": "deep-learning-models",
-            "stars": 7350,
+            "stars": 7351,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -177,11 +177,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T16:19:37Z",
+            "last_commit": "2026-10-07T22:41:53Z",
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77655,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -290,7 +290,7 @@
             "open_issues": 1175,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34551,
+            "stars": 34549,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -371,7 +371,7 @@
             "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17589,
+            "stars": 17588,
             "topics": [
               "c-plus-plus",
               "c-sharp",
@@ -646,8 +646,8 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-06T11:50:53Z",
-            "open_issues": 1236,
+            "last_commit": "2026-10-07T15:26:55Z",
+            "open_issues": 1235,
             "owner": "pytorch",
             "repo": "vision",
             "stars": 17943,
@@ -873,7 +873,7 @@
             "open_issues": 88,
             "owner": "fchollet",
             "repo": "deep-learning-models",
-            "stars": 7350,
+            "stars": 7351,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1059,11 +1059,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T16:19:37Z",
+            "last_commit": "2026-10-07T22:41:53Z",
             "open_issues": 1272,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77656,
+            "stars": 77655,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1117,7 +1117,7 @@
             "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17589,
+            "stars": 17588,
             "topics": [
               "c-plus-plus",
               "c-sharp",
@@ -1275,11 +1275,11 @@
             "id": 102692863,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T01:30:11Z",
-            "open_issues": 257,
+            "last_commit": "2026-10-07T01:02:05Z",
+            "open_issues": 264,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21561,
+            "stars": 21563,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1910,7 +1910,7 @@
                 "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17589,
+                "stars": 17588,
                 "topics": [
                   "c-plus-plus",
                   "c-sharp",
@@ -1943,7 +1943,7 @@
                 "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17589,
+                "stars": 17588,
                 "topics": [
                   "c-plus-plus",
                   "c-sharp",
@@ -2489,7 +2489,7 @@
                 "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17589,
+                "stars": 17588,
                 "topics": [
                   "c-plus-plus",
                   "c-sharp",
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T22:42:03.323Z",
+    "last_updated": "2026-10-07T23:11:33.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
