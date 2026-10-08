@@ -111,11 +111,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-07T15:26:55Z",
+            "last_commit": "2026-10-08T14:03:56Z",
             "open_issues": 1235,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17943,
+            "stars": 17945,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -178,10 +178,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T22:41:53Z",
-            "open_issues": 1272,
+            "open_issues": 1270,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77655,
+            "stars": 77653,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -202,7 +202,7 @@
             "open_issues": 869,
             "owner": "PaddlePaddle",
             "repo": "models",
-            "stars": 6931,
+            "stars": 6930,
             "topics": [
               "computer-vision",
               "cv",
@@ -267,7 +267,7 @@
             "open_issues": 2007,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20804,
+            "stars": 20803,
             "topics": [
               "mxnet"
             ]
@@ -315,7 +315,7 @@
             "open_issues": 2007,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20804,
+            "stars": 20803,
             "topics": [
               "mxnet"
             ]
@@ -371,7 +371,7 @@
             "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17588,
+            "stars": 17586,
             "topics": [
               "c-plus-plus",
               "c-sharp",
@@ -496,7 +496,7 @@
             "open_issues": 275,
             "owner": "PaddlePaddle",
             "repo": "X2Paddle",
-            "stars": 771,
+            "stars": 772,
             "topics": [
               "caffe",
               "model-converter",
@@ -646,11 +646,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-07T15:26:55Z",
+            "last_commit": "2026-10-08T14:03:56Z",
             "open_issues": 1235,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17943,
+            "stars": 17945,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -1060,10 +1060,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-10-07T22:41:53Z",
-            "open_issues": 1272,
+            "open_issues": 1270,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77655,
+            "stars": 77653,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1117,7 +1117,7 @@
             "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17588,
+            "stars": 17586,
             "topics": [
               "c-plus-plus",
               "c-sharp",
@@ -1217,7 +1217,7 @@
             "open_issues": 275,
             "owner": "PaddlePaddle",
             "repo": "X2Paddle",
-            "stars": 771,
+            "stars": 772,
             "topics": [
               "caffe",
               "model-converter",
@@ -1276,10 +1276,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-07T01:02:05Z",
-            "open_issues": 264,
+            "open_issues": 279,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21563,
+            "stars": 21566,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1314,7 +1314,7 @@
             "open_issues": 275,
             "owner": "PaddlePaddle",
             "repo": "X2Paddle",
-            "stars": 771,
+            "stars": 772,
             "topics": [
               "caffe",
               "model-converter",
@@ -1414,7 +1414,7 @@
                     "open_issues": 2007,
                     "owner": "apache",
                     "repo": "mxnet",
-                    "stars": 20804,
+                    "stars": 20803,
                     "topics": [
                       "mxnet"
                     ]
@@ -1435,7 +1435,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20804,
+                "stars": 20803,
                 "topics": [
                   "mxnet"
                 ]
@@ -1910,7 +1910,7 @@
                 "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17588,
+                "stars": 17586,
                 "topics": [
                   "c-plus-plus",
                   "c-sharp",
@@ -1943,7 +1943,7 @@
                 "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17588,
+                "stars": 17586,
                 "topics": [
                   "c-plus-plus",
                   "c-sharp",
@@ -2489,7 +2489,7 @@
                 "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17588,
+                "stars": 17586,
                 "topics": [
                   "c-plus-plus",
                   "c-sharp",
@@ -2832,7 +2832,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20804,
+                "stars": 20803,
                 "topics": [
                   "mxnet"
                 ]
@@ -2979,7 +2979,7 @@
                 "open_issues": 275,
                 "owner": "PaddlePaddle",
                 "repo": "X2Paddle",
-                "stars": 771,
+                "stars": 772,
                 "topics": [
                   "caffe",
                   "model-converter",
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T23:11:33.495Z",
+    "last_updated": "2026-10-08T23:27:05.289Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
