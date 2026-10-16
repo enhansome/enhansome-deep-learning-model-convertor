@@ -111,8 +111,8 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-15T11:40:13Z",
-            "open_issues": 1235,
+            "last_commit": "2026-10-16T11:39:37Z",
+            "open_issues": 1236,
             "owner": "pytorch",
             "repo": "vision",
             "stars": 17956,
@@ -181,7 +181,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77646,
+            "stars": 77644,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -267,7 +267,7 @@
             "open_issues": 2007,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20803,
+            "stars": 20804,
             "topics": [
               "mxnet"
             ]
@@ -315,7 +315,7 @@
             "open_issues": 2007,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20803,
+            "stars": 20804,
             "topics": [
               "mxnet"
             ]
@@ -371,7 +371,7 @@
             "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17587,
+            "stars": 17586,
             "topics": [
               "c-plus-plus",
               "c-sharp",
@@ -646,8 +646,8 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-15T11:40:13Z",
-            "open_issues": 1235,
+            "last_commit": "2026-10-16T11:39:37Z",
+            "open_issues": 1236,
             "owner": "pytorch",
             "repo": "vision",
             "stars": 17956,
@@ -1063,7 +1063,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77646,
+            "stars": 77644,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1117,7 +1117,7 @@
             "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17587,
+            "stars": 17586,
             "topics": [
               "c-plus-plus",
               "c-sharp",
@@ -1276,7 +1276,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-15T02:01:31Z",
-            "open_issues": 267,
+            "open_issues": 271,
             "owner": "onnx",
             "repo": "onnx",
             "stars": 21589,
@@ -1414,7 +1414,7 @@
                     "open_issues": 2007,
                     "owner": "apache",
                     "repo": "mxnet",
-                    "stars": 20803,
+                    "stars": 20804,
                     "topics": [
                       "mxnet"
                     ]
@@ -1435,7 +1435,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20803,
+                "stars": 20804,
                 "topics": [
                   "mxnet"
                 ]
@@ -1910,7 +1910,7 @@
                 "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17587,
+                "stars": 17586,
                 "topics": [
                   "c-plus-plus",
                   "c-sharp",
@@ -1943,7 +1943,7 @@
                 "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17587,
+                "stars": 17586,
                 "topics": [
                   "c-plus-plus",
                   "c-sharp",
@@ -2489,7 +2489,7 @@
                 "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17587,
+                "stars": 17586,
                 "topics": [
                   "c-plus-plus",
                   "c-sharp",
@@ -2617,7 +2617,7 @@
                 "open_issues": 641,
                 "owner": "thtrieu",
                 "repo": "darkflow",
-                "stars": 6141,
+                "stars": 6140,
                 "topics": [
                   "convolutional-networks",
                   "convolutional-neural-networks",
@@ -2832,7 +2832,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20803,
+                "stars": 20804,
                 "topics": [
                   "mxnet"
                 ]
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T21:32:03.434Z",
+    "last_updated": "2026-10-16T21:23:10.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
