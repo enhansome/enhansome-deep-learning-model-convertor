@@ -73,7 +73,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10010,
+            "stars": 10009,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -111,8 +111,8 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-23T20:56:29Z",
-            "open_issues": 1247,
+            "last_commit": "2026-10-24T11:38:04Z",
+            "open_issues": 1249,
             "owner": "pytorch",
             "repo": "vision",
             "stars": 17969,
@@ -267,7 +267,7 @@
             "open_issues": 2007,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20800,
+            "stars": 20799,
             "topics": [
               "mxnet"
             ]
@@ -315,7 +315,7 @@
             "open_issues": 2007,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20800,
+            "stars": 20799,
             "topics": [
               "mxnet"
             ]
@@ -608,7 +608,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10010,
+            "stars": 10009,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -646,8 +646,8 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-23T20:56:29Z",
-            "open_issues": 1247,
+            "last_commit": "2026-10-24T11:38:04Z",
+            "open_issues": 1249,
             "owner": "pytorch",
             "repo": "vision",
             "stars": 17969,
@@ -1275,11 +1275,11 @@
             "id": 102692863,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T15:50:14Z",
-            "open_issues": 296,
+            "last_commit": "2026-10-24T17:26:06Z",
+            "open_issues": 295,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21611,
+            "stars": 21614,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1414,7 +1414,7 @@
                     "open_issues": 2007,
                     "owner": "apache",
                     "repo": "mxnet",
-                    "stars": 20800,
+                    "stars": 20799,
                     "topics": [
                       "mxnet"
                     ]
@@ -1435,7 +1435,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20800,
+                "stars": 20799,
                 "topics": [
                   "mxnet"
                 ]
@@ -2693,7 +2693,7 @@
                 "open_issues": 63,
                 "owner": "amir-abdi",
                 "repo": "keras_to_tensorflow",
-                "stars": 1645,
+                "stars": 1646,
                 "topics": [
                   "deep-learning",
                   "keras",
@@ -2832,7 +2832,7 @@
                 "open_issues": 2007,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20800,
+                "stars": 20799,
                 "topics": [
                   "mxnet"
                 ]
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T21:31:00.763Z",
+    "last_updated": "2026-10-24T20:59:09.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
