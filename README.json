@@ -111,11 +111,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-25T11:37:43Z",
+            "last_commit": "2026-10-26T11:45:12Z",
             "open_issues": 1249,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17971,
+            "stars": 17970,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -177,11 +177,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T03:36:49Z",
+            "last_commit": "2026-10-26T17:40:40Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77650,
+            "stars": 77647,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -646,11 +646,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-25T11:37:43Z",
+            "last_commit": "2026-10-26T11:45:12Z",
             "open_issues": 1249,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17971,
+            "stars": 17970,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -1059,11 +1059,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T03:36:49Z",
+            "last_commit": "2026-10-26T17:40:40Z",
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77650,
+            "stars": 77647,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1275,11 +1275,11 @@
             "id": 102692863,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-25T04:46:45Z",
-            "open_issues": 297,
+            "last_commit": "2026-10-26T21:57:32Z",
+            "open_issues": 299,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21617,
+            "stars": 21621,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -2440,7 +2440,7 @@
                 "open_issues": 62,
                 "owner": "gmalivenko",
                 "repo": "pytorch2keras",
-                "stars": 860,
+                "stars": 861,
                 "topics": [
                   "converter",
                   "darts",
@@ -2575,7 +2575,7 @@
                 "open_issues": 120,
                 "owner": "ethereon",
                 "repo": "caffe-tensorflow",
-                "stars": 2786,
+                "stars": 2787,
                 "topics": []
               },
               "title": "ethereon/caffe-tensorflow: Caffe models in TensorFlow",
@@ -2741,7 +2741,7 @@
                 "open_issues": 62,
                 "owner": "gmalivenko",
                 "repo": "pytorch2keras",
-                "stars": 860,
+                "stars": 861,
                 "topics": [
                   "converter",
                   "darts",
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T20:58:38.743Z",
+    "last_updated": "2026-10-26T22:46:23.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
