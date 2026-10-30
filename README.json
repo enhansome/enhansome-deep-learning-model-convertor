@@ -111,11 +111,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-29T17:20:21Z",
+            "last_commit": "2026-10-30T21:22:15Z",
             "open_issues": 1250,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17973,
+            "stars": 17978,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -177,11 +177,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T08:21:25Z",
+            "last_commit": "2026-10-30T07:24:38Z",
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77643,
+            "stars": 77642,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -371,7 +371,7 @@
             "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17583,
+            "stars": 17584,
             "topics": [
               "c-plus-plus",
               "c-sharp",
@@ -646,11 +646,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-29T17:20:21Z",
+            "last_commit": "2026-10-30T21:22:15Z",
             "open_issues": 1250,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17973,
+            "stars": 17978,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -1059,11 +1059,11 @@
             "id": 51117837,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T08:21:25Z",
+            "last_commit": "2026-10-30T07:24:38Z",
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77643,
+            "stars": 77642,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1117,7 +1117,7 @@
             "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17583,
+            "stars": 17584,
             "topics": [
               "c-plus-plus",
               "c-sharp",
@@ -1275,11 +1275,11 @@
             "id": 102692863,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T22:37:38Z",
-            "open_issues": 309,
+            "last_commit": "2026-10-30T22:28:34Z",
+            "open_issues": 310,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21627,
+            "stars": 21631,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1910,7 +1910,7 @@
                 "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17583,
+                "stars": 17584,
                 "topics": [
                   "c-plus-plus",
                   "c-sharp",
@@ -1943,7 +1943,7 @@
                 "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17583,
+                "stars": 17584,
                 "topics": [
                   "c-plus-plus",
                   "c-sharp",
@@ -2489,7 +2489,7 @@
                 "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17583,
+                "stars": 17584,
                 "topics": [
                   "c-plus-plus",
                   "c-sharp",
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T22:51:42.241Z",
+    "last_updated": "2026-10-30T22:29:43.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
