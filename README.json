@@ -73,7 +73,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10011,
+            "stars": 10012,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -111,8 +111,8 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-31T21:43:08Z",
-            "open_issues": 1250,
+            "last_commit": "2026-11-01T11:34:40Z",
+            "open_issues": 1249,
             "owner": "pytorch",
             "repo": "vision",
             "stars": 17982,
@@ -160,7 +160,7 @@
             "open_issues": 88,
             "owner": "fchollet",
             "repo": "deep-learning-models",
-            "stars": 7353,
+            "stars": 7352,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -181,7 +181,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77640,
+            "stars": 77637,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -371,7 +371,7 @@
             "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17584,
+            "stars": 17583,
             "topics": [
               "c-plus-plus",
               "c-sharp",
@@ -608,7 +608,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10011,
+            "stars": 10012,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -646,8 +646,8 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-31T21:43:08Z",
-            "open_issues": 1250,
+            "last_commit": "2026-11-01T11:34:40Z",
+            "open_issues": 1249,
             "owner": "pytorch",
             "repo": "vision",
             "stars": 17982,
@@ -873,7 +873,7 @@
             "open_issues": 88,
             "owner": "fchollet",
             "repo": "deep-learning-models",
-            "stars": 7353,
+            "stars": 7352,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1063,7 +1063,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77640,
+            "stars": 77637,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1117,7 +1117,7 @@
             "open_issues": 839,
             "owner": "microsoft",
             "repo": "CNTK",
-            "stars": 17584,
+            "stars": 17583,
             "topics": [
               "c-plus-plus",
               "c-sharp",
@@ -1275,8 +1275,8 @@
             "id": 102692863,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T13:44:21Z",
-            "open_issues": 313,
+            "last_commit": "2026-11-01T20:52:57Z",
+            "open_issues": 314,
             "owner": "onnx",
             "repo": "onnx",
             "stars": 21634,
@@ -1910,7 +1910,7 @@
                 "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17584,
+                "stars": 17583,
                 "topics": [
                   "c-plus-plus",
                   "c-sharp",
@@ -1943,7 +1943,7 @@
                 "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17584,
+                "stars": 17583,
                 "topics": [
                   "c-plus-plus",
                   "c-sharp",
@@ -2489,7 +2489,7 @@
                 "open_issues": 839,
                 "owner": "microsoft",
                 "repo": "CNTK",
-                "stars": 17584,
+                "stars": 17583,
                 "topics": [
                   "c-plus-plus",
                   "c-sharp",
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T21:44:18.504Z",
+    "last_updated": "2026-11-01T22:11:21.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
@@ -3015,7 +3015,7 @@
       "open_issues": 2,
       "owner": "ysh329",
       "repo": "deep-learning-model-convertor",
-      "stars": 3235,
+      "stars": 3236,
       "topics": [
         "awesome-list",
         "caffe",
