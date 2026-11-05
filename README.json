@@ -19,7 +19,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34554,
+            "stars": 34558,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -73,7 +73,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10013,
+            "stars": 10014,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -111,11 +111,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-04T21:50:17Z",
-            "open_issues": 1256,
+            "last_commit": "2026-11-05T11:35:31Z",
+            "open_issues": 1257,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17986,
+            "stars": 17987,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -181,7 +181,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77633,
+            "stars": 77635,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -290,7 +290,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34554,
+            "stars": 34558,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -608,7 +608,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10013,
+            "stars": 10014,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -646,11 +646,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-04T21:50:17Z",
-            "open_issues": 1256,
+            "last_commit": "2026-11-05T11:35:31Z",
+            "open_issues": 1257,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17986,
+            "stars": 17987,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -1063,7 +1063,7 @@
             "open_issues": 1276,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77633,
+            "stars": 77635,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1275,11 +1275,11 @@
             "id": 102692863,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T23:20:15Z",
-            "open_issues": 315,
+            "last_commit": "2026-11-05T23:18:16Z",
+            "open_issues": 327,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21641,
+            "stars": 21648,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -2617,7 +2617,7 @@
                 "open_issues": 641,
                 "owner": "thtrieu",
                 "repo": "darkflow",
-                "stars": 6138,
+                "stars": 6139,
                 "topics": [
                   "convolutional-networks",
                   "convolutional-neural-networks",
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T23:46:39.306Z",
+    "last_updated": "2026-11-05T23:43:03.615Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
