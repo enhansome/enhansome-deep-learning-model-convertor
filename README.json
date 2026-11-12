@@ -19,7 +19,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34555,
+            "stars": 34556,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -44,7 +44,7 @@
             "open_issues": 580,
             "owner": "facebookarchive",
             "repo": "caffe2",
-            "stars": 8369,
+            "stars": 8368,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -111,11 +111,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-10T11:35:18Z",
-            "open_issues": 1266,
+            "last_commit": "2026-11-11T11:35:21Z",
+            "open_issues": 1268,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 18000,
+            "stars": 18001,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -139,7 +139,7 @@
             "open_issues": 299,
             "owner": "torch",
             "repo": "torch7",
-            "stars": 9140,
+            "stars": 9141,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -181,7 +181,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77636,
+            "stars": 77635,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -234,7 +234,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5803,
+            "stars": 5801,
             "topics": [
               "caffe",
               "cntk",
@@ -267,7 +267,7 @@
             "open_issues": 2006,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20793,
+            "stars": 20792,
             "topics": [
               "mxnet"
             ]
@@ -290,7 +290,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34555,
+            "stars": 34556,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -315,7 +315,7 @@
             "open_issues": 2006,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20793,
+            "stars": 20792,
             "topics": [
               "mxnet"
             ]
@@ -338,7 +338,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5803,
+            "stars": 5801,
             "topics": [
               "caffe",
               "cntk",
@@ -546,7 +546,7 @@
             "open_issues": 580,
             "owner": "facebookarchive",
             "repo": "caffe2",
-            "stars": 8369,
+            "stars": 8368,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -575,7 +575,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5803,
+            "stars": 5801,
             "topics": [
               "caffe",
               "cntk",
@@ -646,11 +646,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-10T11:35:18Z",
-            "open_issues": 1266,
+            "last_commit": "2026-11-11T11:35:21Z",
+            "open_issues": 1268,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 18000,
+            "stars": 18001,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -674,7 +674,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5803,
+            "stars": 5801,
             "topics": [
               "caffe",
               "cntk",
@@ -707,7 +707,7 @@
             "open_issues": 2,
             "owner": "inisis",
             "repo": "brocolli",
-            "stars": 343,
+            "stars": 342,
             "topics": [
               "caffe",
               "onnx",
@@ -758,7 +758,7 @@
             "open_issues": 299,
             "owner": "torch",
             "repo": "torch7",
-            "stars": 9140,
+            "stars": 9141,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -894,7 +894,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5803,
+            "stars": 5801,
             "topics": [
               "caffe",
               "cntk",
@@ -1009,7 +1009,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5803,
+            "stars": 5801,
             "topics": [
               "caffe",
               "cntk",
@@ -1063,7 +1063,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77636,
+            "stars": 77635,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1084,7 +1084,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5803,
+            "stars": 5801,
             "topics": [
               "caffe",
               "cntk",
@@ -1246,7 +1246,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5803,
+            "stars": 5801,
             "topics": [
               "caffe",
               "cntk",
@@ -1275,11 +1275,11 @@
             "id": 102692863,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-10T23:07:56Z",
-            "open_issues": 335,
+            "last_commit": "2026-11-11T20:36:54Z",
+            "open_issues": 346,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21671,
+            "stars": 21674,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1351,7 +1351,7 @@
                 "open_issues": 336,
                 "owner": "microsoft",
                 "repo": "MMdnn",
-                "stars": 5803,
+                "stars": 5801,
                 "topics": [
                   "caffe",
                   "cntk",
@@ -1414,7 +1414,7 @@
                     "open_issues": 2006,
                     "owner": "apache",
                     "repo": "mxnet",
-                    "stars": 20793,
+                    "stars": 20792,
                     "topics": [
                       "mxnet"
                     ]
@@ -1435,7 +1435,7 @@
                 "open_issues": 2006,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20793,
+                "stars": 20792,
                 "topics": [
                   "mxnet"
                 ]
@@ -1515,7 +1515,7 @@
                 "open_issues": 2,
                 "owner": "inisis",
                 "repo": "brocolli",
-                "stars": 343,
+                "stars": 342,
                 "topics": [
                   "caffe",
                   "onnx",
@@ -1541,7 +1541,7 @@
                 "open_issues": 25,
                 "owner": "longcw",
                 "repo": "pytorch2caffe",
-                "stars": 538,
+                "stars": 537,
                 "topics": []
               },
               "title": "pytorch2caffe",
@@ -1816,7 +1816,7 @@
                     "open_issues": 580,
                     "owner": "facebookarchive",
                     "repo": "caffe2",
-                    "stars": 8369,
+                    "stars": 8368,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -1845,7 +1845,7 @@
                     "open_issues": 580,
                     "owner": "facebookarchive",
                     "repo": "caffe2",
-                    "stars": 8369,
+                    "stars": 8368,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -2218,7 +2218,7 @@
                 "open_issues": 44,
                 "owner": "szagoruyko",
                 "repo": "loadcaffe",
-                "stars": 489,
+                "stars": 488,
                 "topics": []
               },
               "title": "szagoruyko/loadcaffe",
@@ -2832,7 +2832,7 @@
                 "open_issues": 2006,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20793,
+                "stars": 20792,
                 "topics": [
                   "mxnet"
                 ]
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T23:32:54.129Z",
+    "last_updated": "2026-11-12T00:51:02.951Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
