@@ -19,7 +19,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34556,
+            "stars": 34555,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -111,11 +111,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-12T11:35:25Z",
-            "open_issues": 1268,
+            "last_commit": "2026-11-13T11:35:12Z",
+            "open_issues": 1273,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 18003,
+            "stars": 18006,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -139,7 +139,7 @@
             "open_issues": 299,
             "owner": "torch",
             "repo": "torch7",
-            "stars": 9141,
+            "stars": 9140,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -160,7 +160,7 @@
             "open_issues": 88,
             "owner": "fchollet",
             "repo": "deep-learning-models",
-            "stars": 7353,
+            "stars": 7352,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -181,7 +181,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77635,
+            "stars": 77633,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -234,7 +234,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5801,
+            "stars": 5800,
             "topics": [
               "caffe",
               "cntk",
@@ -290,7 +290,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34556,
+            "stars": 34555,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -338,7 +338,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5801,
+            "stars": 5800,
             "topics": [
               "caffe",
               "cntk",
@@ -575,7 +575,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5801,
+            "stars": 5800,
             "topics": [
               "caffe",
               "cntk",
@@ -646,11 +646,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-12T11:35:25Z",
-            "open_issues": 1268,
+            "last_commit": "2026-11-13T11:35:12Z",
+            "open_issues": 1273,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 18003,
+            "stars": 18006,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -674,7 +674,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5801,
+            "stars": 5800,
             "topics": [
               "caffe",
               "cntk",
@@ -758,7 +758,7 @@
             "open_issues": 299,
             "owner": "torch",
             "repo": "torch7",
-            "stars": 9141,
+            "stars": 9140,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -873,7 +873,7 @@
             "open_issues": 88,
             "owner": "fchollet",
             "repo": "deep-learning-models",
-            "stars": 7353,
+            "stars": 7352,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -894,7 +894,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5801,
+            "stars": 5800,
             "topics": [
               "caffe",
               "cntk",
@@ -1009,7 +1009,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5801,
+            "stars": 5800,
             "topics": [
               "caffe",
               "cntk",
@@ -1063,7 +1063,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77635,
+            "stars": 77633,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1084,7 +1084,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5801,
+            "stars": 5800,
             "topics": [
               "caffe",
               "cntk",
@@ -1246,7 +1246,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5801,
+            "stars": 5800,
             "topics": [
               "caffe",
               "cntk",
@@ -1275,11 +1275,11 @@
             "id": 102692863,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T23:39:19Z",
-            "open_issues": 335,
+            "last_commit": "2026-11-13T19:21:44Z",
+            "open_issues": 346,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21675,
+            "stars": 21685,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1351,7 +1351,7 @@
                 "open_issues": 336,
                 "owner": "microsoft",
                 "repo": "MMdnn",
-                "stars": 5801,
+                "stars": 5800,
                 "topics": [
                   "caffe",
                   "cntk",
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T23:42:36.318Z",
+    "last_updated": "2026-11-13T23:42:08.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
