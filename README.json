@@ -19,7 +19,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34556,
+            "stars": 34557,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -111,11 +111,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-16T11:38:11Z",
-            "open_issues": 1275,
+            "last_commit": "2026-11-17T11:34:48Z",
+            "open_issues": 1276,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 18011,
+            "stars": 18015,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -160,7 +160,7 @@
             "open_issues": 88,
             "owner": "fchollet",
             "repo": "deep-learning-models",
-            "stars": 7351,
+            "stars": 7350,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -267,7 +267,7 @@
             "open_issues": 2006,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20791,
+            "stars": 20792,
             "topics": [
               "mxnet"
             ]
@@ -290,7 +290,7 @@
             "open_issues": 1176,
             "owner": "BVLC",
             "repo": "caffe",
-            "stars": 34556,
+            "stars": 34557,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -315,7 +315,7 @@
             "open_issues": 2006,
             "owner": "apache",
             "repo": "mxnet",
-            "stars": 20791,
+            "stars": 20792,
             "topics": [
               "mxnet"
             ]
@@ -646,11 +646,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-16T11:38:11Z",
-            "open_issues": 1275,
+            "last_commit": "2026-11-17T11:34:48Z",
+            "open_issues": 1276,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 18011,
+            "stars": 18015,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -873,7 +873,7 @@
             "open_issues": 88,
             "owner": "fchollet",
             "repo": "deep-learning-models",
-            "stars": 7351,
+            "stars": 7350,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1275,11 +1275,11 @@
             "id": 102692863,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T18:39:11Z",
-            "open_issues": 329,
+            "last_commit": "2026-11-17T23:47:38Z",
+            "open_issues": 332,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21696,
+            "stars": 21702,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1414,7 +1414,7 @@
                     "open_issues": 2006,
                     "owner": "apache",
                     "repo": "mxnet",
-                    "stars": 20791,
+                    "stars": 20792,
                     "topics": [
                       "mxnet"
                     ]
@@ -1435,7 +1435,7 @@
                 "open_issues": 2006,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20791,
+                "stars": 20792,
                 "topics": [
                   "mxnet"
                 ]
@@ -2832,7 +2832,7 @@
                 "open_issues": 2006,
                 "owner": "apache",
                 "repo": "mxnet",
-                "stars": 20791,
+                "stars": 20792,
                 "topics": [
                   "mxnet"
                 ]
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T01:53:52.042Z",
+    "last_updated": "2026-11-18T01:01:50.539Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
