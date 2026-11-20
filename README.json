@@ -44,7 +44,7 @@
             "open_issues": 580,
             "owner": "facebookarchive",
             "repo": "caffe2",
-            "stars": 8367,
+            "stars": 8368,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -73,7 +73,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10019,
+            "stars": 10018,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -111,11 +111,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-18T11:35:46Z",
-            "open_issues": 1277,
+            "last_commit": "2026-11-19T11:35:47Z",
+            "open_issues": 1271,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 18018,
+            "stars": 18020,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -139,7 +139,7 @@
             "open_issues": 299,
             "owner": "torch",
             "repo": "torch7",
-            "stars": 9140,
+            "stars": 9141,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -160,7 +160,7 @@
             "open_issues": 88,
             "owner": "fchollet",
             "repo": "deep-learning-models",
-            "stars": 7349,
+            "stars": 7347,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -181,7 +181,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77629,
+            "stars": 77630,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -202,7 +202,7 @@
             "open_issues": 868,
             "owner": "PaddlePaddle",
             "repo": "models",
-            "stars": 6934,
+            "stars": 6933,
             "topics": [
               "computer-vision",
               "cv",
@@ -234,7 +234,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5800,
+            "stars": 5799,
             "topics": [
               "caffe",
               "cntk",
@@ -338,7 +338,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5800,
+            "stars": 5799,
             "topics": [
               "caffe",
               "cntk",
@@ -546,7 +546,7 @@
             "open_issues": 580,
             "owner": "facebookarchive",
             "repo": "caffe2",
-            "stars": 8367,
+            "stars": 8368,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -575,7 +575,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5800,
+            "stars": 5799,
             "topics": [
               "caffe",
               "cntk",
@@ -608,7 +608,7 @@
             "open_issues": 699,
             "owner": "Theano",
             "repo": "Theano",
-            "stars": 10019,
+            "stars": 10018,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -646,11 +646,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-18T11:35:46Z",
-            "open_issues": 1277,
+            "last_commit": "2026-11-19T11:35:47Z",
+            "open_issues": 1271,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 18018,
+            "stars": 18020,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -674,7 +674,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5800,
+            "stars": 5799,
             "topics": [
               "caffe",
               "cntk",
@@ -758,7 +758,7 @@
             "open_issues": 299,
             "owner": "torch",
             "repo": "torch7",
-            "stars": 9140,
+            "stars": 9141,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -873,7 +873,7 @@
             "open_issues": 88,
             "owner": "fchollet",
             "repo": "deep-learning-models",
-            "stars": 7349,
+            "stars": 7347,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -894,7 +894,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5800,
+            "stars": 5799,
             "topics": [
               "caffe",
               "cntk",
@@ -1009,7 +1009,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5800,
+            "stars": 5799,
             "topics": [
               "caffe",
               "cntk",
@@ -1063,7 +1063,7 @@
             "open_issues": 1274,
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77629,
+            "stars": 77630,
             "topics": []
           },
           "first_seen": "2026-08-29T01:47:35.756Z"
@@ -1084,7 +1084,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5800,
+            "stars": 5799,
             "topics": [
               "caffe",
               "cntk",
@@ -1246,7 +1246,7 @@
             "open_issues": 336,
             "owner": "microsoft",
             "repo": "MMdnn",
-            "stars": 5800,
+            "stars": 5799,
             "topics": [
               "caffe",
               "cntk",
@@ -1279,7 +1279,7 @@
             "open_issues": 328,
             "owner": "onnx",
             "repo": "onnx",
-            "stars": 21711,
+            "stars": 21718,
             "topics": [
               "ai",
               "artificial-intelligence",
@@ -1351,7 +1351,7 @@
                 "open_issues": 336,
                 "owner": "microsoft",
                 "repo": "MMdnn",
-                "stars": 5800,
+                "stars": 5799,
                 "topics": [
                   "caffe",
                   "cntk",
@@ -1816,7 +1816,7 @@
                     "open_issues": 580,
                     "owner": "facebookarchive",
                     "repo": "caffe2",
-                    "stars": 8367,
+                    "stars": 8368,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -1845,7 +1845,7 @@
                     "open_issues": 580,
                     "owner": "facebookarchive",
                     "repo": "caffe2",
-                    "stars": 8367,
+                    "stars": 8368,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -2617,7 +2617,7 @@
                 "open_issues": 641,
                 "owner": "thtrieu",
                 "repo": "darkflow",
-                "stars": 6138,
+                "stars": 6137,
                 "topics": [
                   "convolutional-networks",
                   "convolutional-neural-networks",
@@ -2693,7 +2693,7 @@
                 "open_issues": 63,
                 "owner": "amir-abdi",
                 "repo": "keras_to_tensorflow",
-                "stars": 1646,
+                "stars": 1645,
                 "topics": [
                   "deep-learning",
                   "keras",
@@ -3003,7 +3003,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T00:32:35.767Z",
+    "last_updated": "2026-11-20T00:42:08.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "The convertor/conversion of deep learning models for different deep learning frameworks/softwares.",
@@ -3015,7 +3015,7 @@
       "open_issues": 2,
       "owner": "ysh329",
       "repo": "deep-learning-model-convertor",
-      "stars": 3236,
+      "stars": 3235,
       "topics": [
         "awesome-list",
         "caffe",
